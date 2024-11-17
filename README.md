@@ -37,7 +37,7 @@
 
 ### **Events and Talks**
 
-- [AI Skills](https://youtu.be/4pfdHL3n908?t=16814). Bangkok, Thailand.
+- [MessageKit AI Skills](https://youtu.be/4pfdHL3n908?t=16814). Bangkok, Thailand.
 - [Introucing MessageKit](https://www.youtube.com/watch?v=2ijTqmo_A5c&t=213s). Online. XMTP Dev Call
 - [Building Group Chats with XMTP](https://www.youtube.com/watch?v=FZ0MGKg2l9Q). Brussels, Belgium.
 - [ZuSocial Workshops](https://twitter.com/afrazhaowang/status/1724787663054745855). Istambul, Turkey.
