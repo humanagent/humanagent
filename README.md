@@ -50,8 +50,3 @@
 - [Web3 Social House](https://twitter.com/afrazhaowang/status/1631060239146442752?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1631060239146442752%7Ctwgr%5E54ead645c29c23886c121343a8e0a5070e9453e4%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.notion.so%2FFabrizio-Guespe-51e33dd217354582a52f656c504a6fe0). Denver, Colorado
 - Web3 Social. [Oxford University.](https://www.instagram.com/p/ClHoEc-O0jd/)
 - [Lens Protocol Applications](https://www.instagram.com/p/CktXnuyjzCq/). Lisbon, Portugal
-
-
-
-### **Contact me**
-[𝕏](https://x.com/fabriguespe/) | [LinkedIn](https://www.linkedin.com/in/fabriguespe/) | [Medium](https://medium.com/@fabriguespe) | [Message me <img style="margin-left:5px;" width="10" src="xmtp.svg"/>](https://converse.xyz/dm/0x7E0b0363404751346930AF92C80D1fef932Cc48a)
