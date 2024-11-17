@@ -1,5 +1,4 @@
-# Fabri
-## humanagent.eth
+# Hi, I'm Fabri (aka humanagent.eth)
 
 - I'm DevRel Engineer @ [Ephemera](https://ephemerahq.com/). Previously DevRel at [Lens Protocol](https://www.lens.xyz/) & Co-Founder of [Linkcard](https://linkcard.app/).
 - I like software ecosystems and angel investing in early-stage startups that I'm passionate about. 
