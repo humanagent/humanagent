@@ -5,7 +5,7 @@
 - If I'm not working, I'm likely building a [Rubik's cube](https://twitter.com/fabriguespe/status/1677089304470859777), exercising, eating well, traveling, or speed-listening (2.5x!).
 
 ### Projects
-- Currently focusing in the App Layer building AI Agents. Developing [MessageKit](https://messagekit.ephemerahq.com/)
+- Currently focusing in the App Layer building AI Agents. Developing [MessageKit](https://message-kit.org/)
 - I’m excited to [announce](https://twitter.com/fabriguespe/status/1656334503319846919) my new role as ⚡️ DevRel for [XMTP](https://xmtp.org/) ⚡️. Contributed to [Docs](https://twitter.com/fabriguespe/status/1674819956297592832), [Support](https://discord.com/invite/xmtp), and hackathons. XMTP is the leading web3 chat infrastrcture seen in apps like coinbase wallet. Check out our successful [Series A](https://blog.xmtp.com/series-a/).
 - As Developer Relations Engineer at [Lens Protocol](https://twitter.com/LensProtocol) within [AAVE](https://aave.com/), I bootstrapped the ecosystem of [developers from the beginning](https://medium.com/@fabriguespe/developer-ecosystems-thesis-a109694ce5c4), as well as the grants program.
 - Ronimate Play-to-Earn Guild. I created a gaming guild in Venezuela and developed a [Discord Bot](https://github.com/fabriguespe/ronibot) to manage its activities. At its peak, it had 500 members [and a great community](https://twitter.com/fabriguespe/status/1479450280907448320).
@@ -27,7 +27,7 @@
 
 ### Full-Stack Development
 
-- [MessageKit](https://messagekit.ephemerahq.com/) - Converse Mini app SDK for building bots in web3 [Typescript]
+- [MessageKit](https://messagekit.ephemerahq.com/) - Agentic GPT wrapper with Crypto UX focus on top of XMTP [Typescript]
 - [XMTP Docs](https://docs.xmtp.org/) - Documenting and building quickstarts for XMTP protocol [React Native, Swift, Kotlin]
 - [Talk-To-Lens](https://twitter.com/fabriguespe/status/1653242360204242944) – ChatGPT Plugin (ReactJS, Prompt Engineering, BigQuery, SQL)
 - [linkcard](https://my.linkcard.app/) – frontend & backend (Node.js, ReactNative, Vue.js, Serverless, NoSQL)
