@@ -27,9 +27,10 @@
 
 ### Events and Talks
 
+
 - [MessageKit AI Skills](https://youtu.be/4pfdHL3n908?t=16814). Bangkok, Thailand.
 - [Introucing MessageKit](https://www.youtube.com/watch?v=2ijTqmo_A5c&t=213s). Online. XMTP Dev Call.
 - [Building Group Chats with XMTP](https://www.youtube.com/watch?v=FZ0MGKg2l9Q). Brussels, Belgium.
 - [ZuSocial Workshops](https://twitter.com/afrazhaowang/status/1724787663054745855). Istambul, Turkey.
 - [DevRel University - The impact of DevRel on Product Development](https://twitter.com/DevrelUni/status/1709979442364252253). Online.
-- [How to build web3 native messaging apps with XMTP](https://www.youtube.com/watch?v=OLQcniVSyA4). Paris, France.
+- [Build verified AI agents for payments in chat(](https://www.youtube.com/watch?v=lEuFUKv9QHw): 
