@@ -11,7 +11,7 @@
 - I'm able to solve the Rubik's Cube on average in under 30 seconds, with an official record of 23 seconds. Check out some fun videos 🤣 [1](https://twitter.com/fabriguespe/status/1677089304470859777), [2](https://www.youtube.com/shorts/4Mg5uUTI07Q), [3](https://www.youtube.com/shorts/oFs7KQm0h-8),.
 - Founded agency Altoweb and developed a WooCommerce [Framework](https://github.com/fabriguespe) for creating customized e-commerce websites as a SaaS.
 
-### Cool content
+### Writings
 
 - [Paymentagent.eth](https://x.com/xmtp_/status/1867254407819415653)
 - [Introducing the Refreshed XMTP Docs](https://medium.com/@fabriguespe/introducing-the-refreshed-xmtp-developer-documentation-2daa9b0ed5a3)
