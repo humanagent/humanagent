@@ -24,6 +24,8 @@
 - [MessageKit](https://messagekit.org/) - Agentic GPT wrapper with Crypto UX focus on top of XMTP [Typescript]
 - [XMTP Docs](https://docs.xmtp.org/) - Documenting and building quickstarts for XMTP protocol [React Native, Swift, Kotlin]
 - [linkcard](https://linkcard.app/) – frontend & backend (Node.js, ReactNative, Vue.js, Serverless, NoSQL)
+- [ronibot](https://github.com/fabriguespe/ronibot) – Axie Infinity guild management bot (Discord, Node.js, Web3js)
+- [fastway⁣](https://github.com/fabriguespe/fastway) – WordPress multipurpose framework (PHP, MySQL)
 
 ### Events and Talks
 
