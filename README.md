@@ -1,9 +1,9 @@
-### Hi, I'm Fabri (aka humanagent.eth)
+### About me
 
 - I’m excited to announce my new role as Staff Product Manager for [Ephemera](https://ephemerahq.com/). Currently focusing on Developer Platform & AI 🤖
-
-### Projects
 - Developed a GPT wrapper with focus on the XMTP ecosystem apps called MessageKit [MessageKit](https://message-kit.org/)
+
+### Past projects
 - I’m excited to [announce](https://twitter.com/fabriguespe/status/1656334503319846919) my new role as ⚡️ DevRel for [XMTP](https://xmtp.org/) ⚡️. Contributed to [Docs](https://twitter.com/fabriguespe/status/1674819956297592832), [Support](https://discord.com/invite/xmtp), and hackathons. XMTP is the leading web3 chat infrastrcture seen in apps like coinbase wallet. Check out our successful [Series A](https://blog.xmtp.com/series-a/).
 - As Developer Relations Engineer at [Lens Protocol](https://twitter.com/LensProtocol) within [AAVE](https://aave.com/), I bootstrapped the ecosystem of [developers from the beginning](https://medium.com/@fabriguespe/developer-ecosystems-thesis-a109694ce5c4), as well as the grants program.
 - As CTO & Co-Founder of [Linkcard](https://linkcard.app/), I was responsible for developing the entire stack using Nuxt.js, Node.js, and NoSQL.
