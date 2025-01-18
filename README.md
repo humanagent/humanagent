@@ -1,9 +1,10 @@
 ### About me
 
 - I’m excited to announce my new role as Staff Product Manager for [Ephemera](https://ephemerahq.com/). Currently focusing on Developer Platform & AI 🤖
-- Developed a GPT wrapper with focus on the XMTP ecosystem apps called MessageKit [MessageKit](https://message-kit.org/)
 
 ### Past projects
+- Abstracted the learnings from MessageKit into a lower level abstraction called [xmtp-agents](https://github.com/ephemeraHQ/xmtp-agents)
+- Developed a GPT wrapper with focus on the XMTP ecosystem apps called MessageKit [MessageKit](https://message-kit.org/)
 - I’m excited to [announce](https://twitter.com/fabriguespe/status/1656334503319846919) my new role as ⚡️ DevRel for [XMTP](https://xmtp.org/) ⚡️. Contributed to [Docs](https://twitter.com/fabriguespe/status/1674819956297592832), [Support](https://discord.com/invite/xmtp), and hackathons. XMTP is the leading web3 chat infrastrcture seen in apps like coinbase wallet. Check out our successful [Series A](https://blog.xmtp.com/series-a/).
 - As Developer Relations Engineer at [Lens Protocol](https://twitter.com/LensProtocol) within [AAVE](https://aave.com/), I bootstrapped the ecosystem of [developers from the beginning](https://medium.com/@fabriguespe/developer-ecosystems-thesis-a109694ce5c4), as well as the grants program.
 - As CTO & Co-Founder of [Linkcard](https://linkcard.app/), I was responsible for developing the entire stack using Nuxt.js, Node.js, and NoSQL.
@@ -13,14 +14,15 @@
 
 ### Writings
 
-- [Paymentagent.eth](https://x.com/xmtp_/status/1867254407819415653)
+- [Private data in AI era](https://x.com/humanagent_eth/status/1880444409889558587): Thesis around AI private data
+- [Crypto agents](https://x.com/xmtp_/status/1867254407819415653)
 - [Introducing the Refreshed XMTP Docs](https://medium.com/@fabriguespe/introducing-the-refreshed-xmtp-developer-documentation-2daa9b0ed5a3)
 - [Talk-To-Lens](https://twitter.com/fabriguespe/status/1653242360204242944) – ChatGPT Plugin (ReactJS, Prompt Engineering, BigQuery, SQL)
 - [Developer Ecosystem Thesis](https://medium.com/@fabriguespe/developer-ecosystems-thesis-a109694ce5c4)
-- [Building a decentralized blog with Lens, Vue & IPFS — Part 1](https://medium.com/@fabriguespe/building-a-decentralized-blog-in-lens-a95c450b1367)
-
+  
 ### Full-Stack Development
 
+- [xmtp-agents](https://github.com/ephemeraHQ/xmtp-agents): Agentic TypeScript wrapper on top of XMTP [Typescript]
 - [MessageKit](https://messagekit.org/) - Agentic GPT wrapper with Crypto UX focus on top of XMTP [Typescript]
 - [XMTP Docs](https://docs.xmtp.org/) - Documenting and building quickstarts for XMTP protocol [React Native, Swift, Kotlin]
 - [linkcard](https://linkcard.app/) – frontend & backend (Node.js, ReactNative, Vue.js, Serverless, NoSQL)
@@ -28,7 +30,6 @@
 - [fastway⁣](https://github.com/fabriguespe/fastway) – WordPress multipurpose framework (PHP, MySQL)
 
 ### Events and Talks
-
 
 - [MessageKit AI Skills](https://youtu.be/4pfdHL3n908?t=16814). Bangkok, Thailand.
 - [Introucing MessageKit](https://www.youtube.com/watch?v=2ijTqmo_A5c&t=213s). Online. XMTP Dev Call.
