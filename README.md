@@ -18,7 +18,7 @@
 - [Crypto agents](https://x.com/xmtp_/status/1867254407819415653): Demo showcasing a personal agent being funded by coinbase wallet using Converse app.
 - [Introducing the Refreshed XMTP Docs](https://x.com/humanagent_eth/status/1674819956297592832): Refreshed the XMTP docs as first devrel task.
 - [Talk-To-Lens](https://twitter.com/fabriguespe/status/1653242360204242944) – ChatGPT Plugin (ReactJS, Prompt Engineering, BigQuery, SQL)
-- [Developer Ecosystem Thesis](https://medium.com/@fabriguespe/developer-ecosystems-thesis-a109694ce5c4)
+- [Developer Ecosystem Thesis](https://medium.com/@fabriguespe/developer-ecosystems-thesis-a109694ce5c4): Ideas on how to build a developer ecosystem
   
 ### Full-Stack Development
 
