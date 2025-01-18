@@ -12,7 +12,7 @@
 - I'm able to solve the Rubik's Cube on average in under 30 seconds, with an official record of 23 seconds. Check out some fun videos 🤣 [1](https://twitter.com/fabriguespe/status/1677089304470859777), [2](https://www.youtube.com/shorts/4Mg5uUTI07Q), [3](https://www.youtube.com/shorts/oFs7KQm0h-8),.
 - Founded agency Altoweb and developed a WooCommerce [Framework](https://github.com/fabriguespe) for creating customized e-commerce websites as a SaaS.
 
-### Posts
+#### Posts
 
 - [Private data in AI era](https://x.com/humanagent_eth/status/1880444409889558587): Thesis around AI private data
 - [Crypto agents](https://x.com/xmtp_/status/1867254407819415653): Demo showcasing a personal agent being funded by coinbase wallet using Converse app.
@@ -20,7 +20,7 @@
 - [Talk-To-Lens](https://twitter.com/fabriguespe/status/1653242360204242944) – ChatGPT Plugin (ReactJS, Prompt Engineering, BigQuery, SQL)
 - [Developer Ecosystem Thesis](https://medium.com/@fabriguespe/developer-ecosystems-thesis-a109694ce5c4): Ideas on how to build a developer ecosystem
   
-### Full-Stack Development
+#### Full-Stack Development
 
 - [xmtp-agents](https://github.com/ephemeraHQ/xmtp-agents): Agentic TypeScript wrapper on top of XMTP [Typescript]
 - [MessageKit](https://messagekit.org/) - Agentic GPT wrapper with Crypto UX focus on top of XMTP [Typescript]
@@ -29,7 +29,7 @@
 - [ronibot](https://github.com/fabriguespe/ronibot) – Axie Infinity guild management bot (Discord, Node.js, Web3js)
 - [fastway⁣](https://github.com/fabriguespe/fastway) – WordPress multipurpose framework (PHP, MySQL)
 
-### Events and Talks
+#### Workshops
 
 - [Build verified AI agents for payments in chat](https://www.youtube.com/watch?v=lEuFUKv9QHw): Demo of the payment agent for funding using coinbase wallet
 - [MessageKit AI Skills](https://youtu.be/4pfdHL3n908?t=16814). Bangkok, Thailand.
