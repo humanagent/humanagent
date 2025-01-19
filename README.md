@@ -1,6 +1,6 @@
 ### About me
 
-- I’m excited to announce my new role as Staff Product Manager for [Ephemera](https://ephemerahq.com/). Currently focusing on Developer Platform & AI 🤖
+- I’m excited to announce my new role as Staff Product Manager for [Ephemera](https://ephemerahq.com/). Currently focusing on Developer Platform & AI [xmtp-agents](https://github.com/ephemeraHQ/xmtp-agents)
 
 ### Past projects
 - Abstracted the learnings from MessageKit into a lower level abstraction called [xmtp-agents](https://github.com/ephemeraHQ/xmtp-agents)
