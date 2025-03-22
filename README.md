@@ -1,8 +1,6 @@
 ### About me
 
-- I’m excited to announce my new role as QA Engineer & DevRel for [Ephemera](https://ephemerahq.com/). Currently focusing on protocol reliability and performance
-
-### Past projects
+- Working on testing & QA for XMTP. [xmtp-qa-testing](https://github.com/xmtp/xmtp-qa-testing)
 - Abstracted the learnings from MessageKit into a lower level abstraction called [xmtp-agents](https://github.com/ephemeraHQ/xmtp-agents)
 - Developed a GPT wrapper with focus on the XMTP ecosystem apps called MessageKit [MessageKit](https://message-kit.org/)
 - I’m excited to [announce](https://twitter.com/fabriguespe/status/1656334503319846919) my new role as ⚡️ DevRel for [XMTP](https://xmtp.org/) ⚡️. Contributed to [Docs](https://twitter.com/fabriguespe/status/1674819956297592832), [Support](https://discord.com/invite/xmtp), and hackathons. XMTP is the leading web3 chat infrastrcture seen in apps like coinbase wallet. Check out our successful [Series A](https://blog.xmtp.com/series-a/).
@@ -22,12 +20,11 @@
   
 #### Full-Stack Development
 
-- [xmtp-agents](https://github.com/ephemeraHQ/xmtp-agents): Agentic TypeScript wrapper on top of XMTP [Typescript]
-- [MessageKit](https://messagekit.org/) - Agentic GPT wrapper with Crypto UX focus on top of XMTP [Typescript]
+- [xmtp-qa-testing](https://github.com/xmtp/xmtp-qa-testing). Monorepo for QA and testing. Datadog, Railway, GH actions, Typescript, Playwright.
+- [xmtp-agent-examples](https://github.com/ephemeraHQ/xmtp-agent-examples): Agentic TypeScript wrapper on top of XMTP [Typescript]
+- [MessageKit](https://messagekit.org/) - Agentic GPT wrapper with Crypto UX focus on top of XMTP [Typescript]. - deprecated
 - [XMTP Docs](https://docs.xmtp.org/) - Documenting and building quickstarts for XMTP protocol [React Native, Swift, Kotlin]
 - [linkcard](https://linkcard.app/) – frontend & backend (Node.js, ReactNative, Vue.js, Serverless, NoSQL)
-- [ronibot](https://github.com/fabriguespe/ronibot) – Axie Infinity guild management bot (Discord, Node.js, Web3js)
-- [fastway⁣](https://github.com/fabriguespe/fastway) – WordPress multipurpose framework (PHP, MySQL)
 
 #### Workshops
 
