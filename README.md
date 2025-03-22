@@ -6,7 +6,7 @@
 
 **Built:**
 - Payment-enabled AI agents [that fund themselves](https://x.com/xmtp_/status/1867254407819415653) via Coinbase Wallet
-- [MessageKit](https://messagekit.org/): The first GPT wrapper optimized for crypto UX
+- [MessageKit]([https://messagekit.org](https://messagekit.ephemerahq.com/): The first GPT wrapper optimized for crypto UX
 - Part of XMTP's revamped [Docs](https://docs.xmtp.org/) - [see tweet](https://x.com/humanagent_eth/status/1674819956297592832)
 
 **Previously:**
