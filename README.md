@@ -1,5 +1,3 @@
-# humanagent
-
 **Now:**
 - Engineering the future of web3 messaging at **XMTP**. Helping with [QA & Testing](https://community.xmtp.org/t/sdk-performance-reliability/892)
 - Architecting [xmtp-agent-exampless](https://github.com/ephemeraHQ/xmtp-agent-examples): Enabling decentralized e2ee AI agents
