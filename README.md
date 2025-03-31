@@ -3,7 +3,7 @@
 - Agents DevRel - [xmtp-agent-examples](https://github.com/ephemeraHQ/xmtp-agent-examples): Enabling decentralized e2ee AI agents
 
 **Previously:**
-- [MessageKit](https://messagekit.ephemerahq.com/): The first GPT wrapper optimized for crypto payment-enabled AI agents [that fund themselves](https://x.com/xmtp_/status/1867254407819415653) via Coinbase Wallet
+- [MessageKit](https://messagekit.ephemerahq.com/): GPT wrapper optimized for crypto AI payments [that fund themselves](https://x.com/xmtp_/status/1867254407819415653) via Coinbase Wallet
 - Bootstrapped Lens Protocol's dev [Developer Ecosystem](https://medium.com/@fabriguespe/developer-ecosystems-thesis-a109694ce5c4) from zero to hundreds
 - Co-founded [linkcard](https://linkcard.app/) as CTO
 
