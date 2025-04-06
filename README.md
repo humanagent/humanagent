@@ -1,6 +1,6 @@
 **Now:**
-- XMTP QA & Testing Engineer. Helping with [reports](https://community.xmtp.org/t/sdk-performance-reliability/892) and [tooling](https://github.com/xmtp/xmtp-qa-testing/).
-- XMTP Agents DevRel - [xmtp-agent-examples](https://github.com/ephemeraHQ/xmtp-agent-examples): Enabling decentralized e2ee AI agents.
+- QA & Testing Engineer. Helping with [reports](https://community.xmtp.org/t/sdk-performance-reliability/892) and [tooling](https://github.com/xmtp/xmtp-qa-testing/).
+- DevRel - [xmtp-agent-examples](https://github.com/ephemeraHQ/xmtp-agent-examples): Enabling decentralized e2ee AI agents.
 
 **Previously:**
 - [MessageKit](https://messagekit.ephemerahq.com/): GPT wrapper optimized for crypto AI payments [that fund themselves](https://x.com/xmtp_/status/1867254407819415653) via Coinbase Wallet.
