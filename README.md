@@ -1,5 +1,5 @@
 **Now:**
-- QA & Testing Engineer. Helping with [reports](https://community.xmtp.org/t/sdk-performance-reliability/892) and [tooling](https://github.com/xmtp/xmtp-qa-testing/).
+- QA & Testing Engineer. Measuring performance and creating [tests](https://github.com/xmtp/xmtp-qa-testing/).
 - DevRel - [xmtp-agent-examples](https://github.com/ephemeraHQ/xmtp-agent-examples): Enabling decentralized e2ee AI agents.
 
 **Previously:**
