@@ -1,6 +1,6 @@
 **Now:**
-- QA & Testing Engineer - Measuments, telemetry, monitoring and [more](https://github.com/xmtp/xmtp-qa-testing/).
-- DevRel - [xmtp-agent-examples](https://github.com/ephemeraHQ/xmtp-agent-examples): Enabling decentralized e2ee AI agents.
+- QA & Testing - Measuments, telemetry, monitoring and [more](https://github.com/xmtp/xmtp-qa-testing/).
+- DevEx - [xmtp-agent-examples](https://github.com/ephemeraHQ/xmtp-agent-examples): Enabling decentralized e2ee AI agents.
 
 **Previously:**
 - [MessageKit](https://messagekit.ephemerahq.com/) - GPT wrapper optimized for crypto AI payments [that fund themselves](https://x.com/xmtp_/status/1867254407819415653) via Coinbase Wallet.
