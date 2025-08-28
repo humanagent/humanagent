@@ -5,7 +5,7 @@
 **Previously:**
 - [MessageKit](https://messagekit.ephemerahq.com/) - GPT wrapper optimized for crypto AI payments [that fund themselves](https://x.com/xmtp_/status/1867254407819415653) via Coinbase Wallet.
 - Bootstrapped Lens Protocol's dev [Developer Ecosystem](https://medium.com/@fabriguespe/developer-ecosystems-thesis-a109694ce5c4) from zero to hundreds.
-- Co-founded [linkcard](https://linkcard.app/) as CTO & Main developer
+- Founding engineer & CTO [linkcard](https://linkcard.app/)
 
 **Also:**
 - Can solve a Rubik's Cube in 23 seconds while [explaining web3 concepts](https://twitter.com/fabriguespe/status/1677089304470859777).
