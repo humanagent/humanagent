@@ -2,7 +2,7 @@
 - QA & Testing - Measuments, telemetry, monitoring and [more](https://github.com/xmtp/xmtp-qa-testing/).
 - DevEx - [xmtp-agent-examples](https://github.com/ephemeraHQ/xmtp-agent-examples): Enabling decentralized e2ee AI agents.
 
-**Previously:**
+**Prev:**
 - DevRel [AAVE](https://aave.com/)
 - Founding engineer & CTO [linkcard](https://linkcard.app/)
 
