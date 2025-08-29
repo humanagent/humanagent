@@ -1,5 +1,5 @@
 **Now:**
-- DevRel, Agents & Eng [XMTP](https://xmtp.org/)
+- DevRel, Product & Eng [XMTP](https://xmtp.org/)
 
 **Prev:**
 - DevRel [AAVE](https://aave.com/)
