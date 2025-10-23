@@ -3,8 +3,8 @@
 - I’m excited to announce my new role as Staff Product Manager for [Ephemera](https://ephemerahq.com/). Currently focusing on Developer Platform & AI 🤖
 
 ### Projects
-- I'm DevRel Engineer for [Ephemera](https://ephemerahq.com/). Previously DevRel at [Lens Protocol](https://www.lens.xyz/) & Co-Founder of [Linkcard](https://linkcard.app/). Currently focusing in the App Layer building AI Agents. Developing [MessageKit](https://message-kit.org/)
-- I’m excited to [announce](https://twitter.com/fabriguespe/status/1656334503319846919) my new role as ⚡️ DevRel for [XMTP](https://xmtp.org/) ⚡️. Contributed to [Docs](https://twitter.com/fabriguespe/status/1674819956297592832), [Support](https://discord.com/invite/xmtp), and hackathons. XMTP is the leading web3 chat infrastrcture seen in apps like coinbase wallet. Check out our successful [Series A](https://blog.xmtp.com/series-a/).
+
+- I’m excited to [announce](https://twitter.com/fabriguespe/status/1656334503319846919) my new role as ⚡️ DevRel for [XMTP](https://xmtp.org/) ⚡️. Working on Agents and QA
 - As Developer Relations Engineer at [Lens Protocol](https://twitter.com/LensProtocol) within [AAVE](https://aave.com/), I bootstrapped the ecosystem of [developers from the beginning](https://medium.com/@fabriguespe/developer-ecosystems-thesis-a109694ce5c4), as well as the grants program.
 - As CTO & Co-Founder of [Linkcard](https://linkcard.app/), I was responsible for developing the entire stack using Nuxt.js, Node.js, and NoSQL.
 - Ronimate Play-to-Earn Guild. I created a gaming guild in Venezuela and developed a Discord Bot] to manage its activities. At its peak, it had 500 members [and a great community](https://twitter.com/fabriguespe/status/1479450280907448320).
@@ -26,13 +26,12 @@
 
 ### Full-Stack Development
 
-
+- [QA Tools](https://github.com/xmtp/xmtp-qa-tools) - Collection of tools for testing and monitoring the XMTP protocol 
+- [agent-examples](https://github.com/ephemeraHQ/xmtp-agent-examples) - Starting point examples for building your own agents. 
+- [AgentSDK](https://github.com/xmtp/xmtp-js/tree/main/sdks/agent-sdk) - Official agent-sdk built on top of node-sdk
 - [MessageKit](https://messagekit.ephemerahq.com/) - Agentic GPT wrapper with Crypto UX focus on top of XMTP [Typescript]
 - [XMTP Docs](https://docs.xmtp.org/) - Documenting and building quickstarts for XMTP protocol [React Native, Swift, Kotlin]
-- [Talk-To-Lens](https://twitter.com/humanagent_eth/status/1653242360204242944) – ChatGPT Plugin (ReactJS, Prompt Engineering, BigQuery, SQL)
-- [Lens docs](https://lens.xyz/docs/chain/overview) - As DevRel, worked on the documentation of Lens Protocol
 - [linkcard](https://my.linkcard.app/) – frontend & backend (Node.js, ReactNative, Vue.js, Serverless, NoSQL)
-- [ronibot](https://github.com/humanagent_eth/ronibot) – Axie Infinity guild management bot (Discord, Node.js, Web3js)
 - [fastway⁣](https://github.com/humanagent_eth/fastway) – WordPress multipurpose framework (PHP, MySQL)
 
 ### Events and Talks
