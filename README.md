@@ -4,23 +4,24 @@ Staff Product Manager at [Ephemera](https://ephemerahq.com/), leading AI agents 
 
 ### AI agents & messaging
 
+
 **[AgentSDK](https://github.com/xmtp/xmtp-js/tree/main/sdks/agent-sdk)** - Official SDK for building autonomous agents on XMTP node infrastructure
 
-**[Agent Examples](https://github.com/ephemeraHQ/xmtp-agent-examples)** - Production-ready templates for payment agents, group coordinators, and transaction handlers
-
 **[QA Tools](https://github.com/xmtp/xmtp-qa-tools)** - Testing infrastructure for agent reliability and protocol monitoring
+
+**[Agent Examples](https://github.com/ephemeraHQ/xmtp-agent-examples)** - Production-ready templates for payment agents, group coordinators, and transaction handlers
 
 **[MessageKit](https://messagekit.ephemerahq.com/)** - Agentic framework for building crypto-native AI agents on XMTP
 
 ### Technical foundation
 
-**DevRel @ [XMTP](https://xmtp.org/)** (2023-2024) - Bootstrapped developer ecosystem, built [docs](https://docs.xmtp.org/), shipped [first transacting agent](https://x.com/xmtp_/status/1867254407819415653)
+**DevRel @ [XMTP](https://xmtp.org/)** - Bootstrapped developer ecosystem, built [docs](https://docs.xmtp.org/), shipped [first transacting agent](https://x.com/xmtp_/status/1867254407819415653)
 
-**DevRel @ [Lens Protocol](https://twitter.com/LensProtocol)** (AAVE) (2022-2023) - [Launched ecosystem](https://medium.com/@fabriguespe/developer-ecosystems-thesis-a109694ce5c4) and grants program from zero
+**Developer Relations @ [Lens Protocol](https://twitter.com/LensProtocol)** (AAVE) - First DevRel Engineer at Lens Protocol. Bootstrapped the ecosystem of developers from the beginning, as well as +1M allocation for the grants program.
 
-**CTO & Co-Founder @ [Linkcard](https://linkcard.app/)** (2021-2022) - Full-stack social link platform (Nuxt.js, Node.js, React Native, Serverless)
+**Co-Founder & CTO @ [Linkcard](https://linkcard.app/)** - Responsible for developing the entire stack using Nuxt.js, Node.js, Serverless, and NoSQL.
 
-**Founder @ Altoweb** (2018-2020) - [Fastway Framework](https://github.com/humanagent/fastway/) for WooCommerce SaaS (PHP, MySQL)
+**Founding Engineer @ Altoweb** - Bootstrapped an agency business and developed the [Fastway Framework](https://github.com/humanagent/fastway/) for creating versatile e-commerce websites as a SaaS.
 
 ### Writing on agents & infrastructure
 
@@ -44,15 +45,15 @@ Staff Product Manager at [Ephemera](https://ephemerahq.com/), leading AI agents 
 - [DevRel University - The impact of DevRel on Product Development](https://twitter.com/DevrelUni/status/1709979442364252253)
 - [What is web3 social](https://twitter.com/easya_app/status/1583809043759783936) - London, UK
 - [Lens Workshop](https://twitter.com/michelleanmar/status/1578461480059834369) - Bogotá, Colombia
-- Regional events in [China](https://twitter.com/LensProtocol_CN/status/1612094290494361601) & [Argentina](https://twitter.com/humanagent_eth/status/1604261430877904899)
+- Decentralized Social in [Argentina](https://twitter.com/humanagent_eth/status/1604261430877904899)
 - [Exploring the potential of Lens Protocol](https://twitter.com/huddle01com/status/1597560196242452482) - Bangalore, India
 - [Intro to web3 social & Lens Protocol](https://www.youtube.com/watch?v=BU6qeocSsME&t=220s) - Zero-to-Dapp Conf, India
 - [Web3 Social House](https://twitter.com/afrazhaowang/status/1631060239146442752) - Denver, Colorado
 - Web3 Social - [Oxford University](https://www.instagram.com/p/ClHoEc-O0jd/)
 - [Lens Protocol Applications](https://www.instagram.com/p/CktXnuyjzCq/) - Lisbon, Portugal
 
-### Other projects
+### Fun projects
 
-**Ronimate Play-to-Earn Guild** (2021-2022) - Built a [500-member gaming guild](https://twitter.com/fabriguespe/status/1479450280907448320) in Venezuela with a custom Discord bot. Coordinated scholarships, tournaments, and on-chain earnings distribution.
+**Play-to-Earn Guild** - Rode the NFT bubble all the way with a [500-member gaming guild](https://twitter.com/fabriguespe/status/1479450280907448320) in Venezuela with a custom Discord bot. Coordinated scholarships, tournaments, and on-chain earnings distribution.
 
 **Rubik's Cube** - Solve it in under 30 seconds on average. Official record: 23s. Some fun [solves](https://twitter.com/fabriguespe/status/1677089304470859777) [here](https://www.youtube.com/shorts/4Mg5uUTI07Q) and [here](https://www.youtube.com/shorts/oFs7KQm0h-8).
