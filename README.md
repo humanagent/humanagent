@@ -11,9 +11,9 @@ Staff Product Manager at [Ephemera](https://ephemerahq.com/), leading AI agents 
 
 **[Agent Examples](https://github.com/ephemeraHQ/xmtp-agent-examples)** - Production-ready templates for payment agents, group coordinators, and transaction handlers
 
-**[MessageKit](https://messagekit.ephemerahq.com/)** - Agentic framework for building crypto-native AI agents on XMTP
+### Engineering track
 
-### Technical foundation
+**[MessageKit](https://messagekit.ephemerahq.com/)** - Agentic framework for building crypto-native AI agents on XMTP
 
 **DevRel @ [XMTP](https://xmtp.org/)** - Improved developer experience, contributed to [docs](https://docs.xmtp.org/), shipped [first transacting agent](https://x.com/xmtp_/status/1867254407819415653)
 
