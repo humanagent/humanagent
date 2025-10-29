@@ -15,7 +15,7 @@ Staff Product Manager at [Ephemera](https://ephemerahq.com/), leading AI agents 
 
 ### Technical foundation
 
-**DevRel @ [XMTP](https://xmtp.org/)** - Bootstrapped developer ecosystem, built [docs](https://docs.xmtp.org/), shipped [first transacting agent](https://x.com/xmtp_/status/1867254407819415653)
+**DevRel @ [XMTP](https://xmtp.org/)** - Improved developer experience, built [docs](https://docs.xmtp.org/), shipped [first transacting agent](https://x.com/xmtp_/status/1867254407819415653)
 
 **Developer Relations @ [Lens Protocol](https://twitter.com/LensProtocol)** (AAVE) - First DevRel Engineer at Lens Protocol. Bootstrapped the ecosystem of developers from the beginning, as well as +1M allocation for the grants program.
 
