@@ -4,17 +4,11 @@ Staff Product Manager at [Ephemera](https://ephemerahq.com/), leading AI agents 
 
 ### AI agents & messaging
 
-**[AgentSDK](https://github.com/xmtp/xmtp-js/tree/main/sdks/agent-sdk)** - SDKs and tools for building autonomous agents on XMTP 
-
-**[CLI](https://github.com/xmtp/xmtp-js/tree/main/packages/xmtp-cli)** - Official CLI for interacting with XMTP. 
+**[Agent SDK](https://github.com/xmtp/xmtp-js/tree/main/sdks/agent-sdk)** - SDKs for building autonomous agents on XMTP · [CLI](https://github.com/xmtp/xmtp-js/tree/main/packages/xmtp-cli) · [Examples](https://github.com/ephemeraHQ/xmtp-agent-examples)
 
 **[QA Tools](https://github.com/xmtp/xmtp-qa-tools)** - Testing infrastructure for agent reliability and protocol monitoring
 
-**[Agent Examples](https://github.com/ephemeraHQ/xmtp-agent-examples)** - Production-ready templates for payment agents, group coordinators, and transaction handlers
-
 ### Engineering track
-
-**[MessageKit](https://messagekit.ephemerahq.com/)** - Agentic framework for building crypto-native AI agents on XMTP
 
 **DevRel @ [XMTP](https://xmtp.org/)** - Improved developer experience, contributed to [docs](https://docs.xmtp.org/), shipped [first transacting agent](https://x.com/xmtp_/status/1867254407819415653)
 
