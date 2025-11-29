@@ -4,8 +4,9 @@ Staff Product Manager at [Ephemera](https://ephemerahq.com/), leading AI agents 
 
 ### AI agents & messaging
 
+**[AgentSDK](https://github.com/xmtp/xmtp-js/tree/main/sdks/agent-sdk)** - SDKs and tools for building autonomous agents on XMTP 
 
-**[AgentSDK](https://github.com/xmtp/xmtp-js/tree/main/sdks/agent-sdk)** - Official SDK for building autonomous agents on XMTP node infrastructure
+**[CLI](https://github.com/xmtp/xmtp-js/tree/main/packages/xmtp-cli)** - Official CLI for interacting with XMTP. 
 
 **[QA Tools](https://github.com/xmtp/xmtp-qa-tools)** - Testing infrastructure for agent reliability and protocol monitoring
 
