@@ -31,7 +31,8 @@ Staff Product Manager at [Ephemera](https://ephemerahq.com/), leading AI agents 
 
 ### Talks on agents & messaging
 
-- [Coinbase: The future of Messaging](https://x.com/buildonbase/status/1930686350728351799) - Production agent deployments
+- [Miniapps 101](https://x.com/humanagent_eth/status/1989701337701818733) - Building agents and mini apps on Base. Buenos Aires, Argentina.
+- [Coinbase: The future of Messaging](https://x.com/buildonbase/status/1930686350728351799) - Production agent deployments, Online.
 - [MessageKit AI Skills](https://youtu.be/4pfdHL3n908?t=16814) - Bangkok, Thailand
 - [Introducing MessageKit](https://www.youtube.com/watch?v=2ijTqmo_A5c&t=213s) - XMTP Dev Call
 - [Building Group Chats with XMTP](https://www.youtube.com/watch?v=FZ0MGKg2l9Q) - Brussels, Belgium
