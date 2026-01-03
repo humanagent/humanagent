@@ -1,6 +1,6 @@
 ### Hi, I'm Fabri (aka humanagent.eth)
 
-Staff Product Manager at [Ephemera](https://ephemerahq.com/), leading AI agents infrastructure on XMTP. I've spent my career building web3 developer ecosystems and decentralized social protocols—now I'm enabling autonomous agents to transact, communicate, and coordinate on-chain.
+Staff Product Manager at [XMTP](https://xmtp.org/), leading AI agents infrastructure on XMTP. I've spent my career building web3 developer ecosystems and decentralized social protocols—now I'm enabling autonomous agents to transact, communicate, and coordinate on-chain.
 
 ### AI agents & messaging
 
