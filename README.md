@@ -8,7 +8,7 @@ Staff Product Manager at [XMTP](https://xmtp.org/), leading AI agents infrastruc
 
 **[Agent SDK](https://github.com/xmtp/xmtp-js/tree/main/sdks/agent-sdk)** - SDKs for building autonomous agents on XMTP · [CLI](https://github.com/xmtp/xmtp-js/tree/main/packages/xmtp-cli) · [Examples](https://github.com/ephemeraHQ/xmtp-agent-examples)
 
-**[QA Tools](https://github.com/xmtp/xmtp-qa-tools)** - Testing infrastructure for agent reliability and protocol monitoring
+**[QA Tools](https://github.com/xmtp/xmtp-qa-tools)** - Testing infrastructure for xmtp protocol reliability and agent monitoring
 
 ### Engineering track
 
