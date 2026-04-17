@@ -2,7 +2,7 @@
 
 Staff Product Manager at [XMTP](https://xmtp.org/), leading AI agents infrastructure on XMTP. I've spent my career building web3 developer ecosystems and decentralized social protocols—now I'm enabling autonomous agents to transact, communicate, and coordinate on-chain.
 
-> **Now:** Focusing on Convos [agents](https://github.com/xmtplabs/convos-agents) — pooled, pre‑warmed XMTP agents you can claim and use in seconds.
+**Now:** Focusing on Convos [assistants](https://github.com/xmtplabs/convos-agents) — pooled, pre‑warmed XMTP agents you can claim and use in seconds.
 
 ### AI agents & messaging
 
