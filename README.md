@@ -12,6 +12,8 @@ Staff Product Manager at [XMTP](https://xmtp.org/), leading AI agents infrastruc
 
 ### Engineering track
 
+**Staff Product Manager @ [XMTP](https://xmtp.org/)** - leading AI agents infrastructure on XMTP & [Convos](https://convos.org/)
+
 **DevRel @ [XMTP](https://xmtp.org/)** - Improved developer experience, contributed to [docs](https://docs.xmtp.org/), shipped [first transacting agent](https://x.com/xmtp_/status/1867254407819415653)
 
 **Developer Relations @ [Lens Protocol](https://twitter.com/LensProtocol)** (AAVE) - First DevRel Engineer at Lens Protocol. Bootstrapped the ecosystem of developers from the beginning, as well as +1M allocation for the grants program.
