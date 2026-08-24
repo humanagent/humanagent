@@ -11,7 +11,7 @@ I like startups, agents, and building tools for stuff I actually do. Buenos Aire
 **[XMTP](https://xmtp.org/)** — 2023–now. Agentic engineer; before that staff PM, QA and devrel.
 
 - **Now — the agent harness behind [Convos](https://convos.org/):** turn taking, interrupts, and the reliability layer under it. Python, on Hermes.
-- Led AI agents and miniapps. worked closely with Coinbase, WORLD and created the [Agent SDK](https://github.com/xmtp/xmtp-js/tree/main/sdks/agent-sdk) for building agents on XMTP.
+- Led AI agents and miniapps. worked closely with [Coinbase](https://docs.cdp.coinbase.com/?country=AR&currency=ARS&mobile=false&japan_bespoke_content=false&logged_in=false&null=), [World](https://world.org/) and created the [Agent SDK](https://github.com/xmtp/xmtp-js/tree/main/sdks/agent-sdk) for building agents on XMTP.
 - Protocol reliability and performance testing, and the agent failure taxonomy and monitoring around it — [QA Tools](https://github.com/xmtp/xmtp-qa-tools).
 - Developer experience and [docs](https://docs.xmtp.org/); shipped the [first transacting agent](https://x.com/xmtp_/status/1867254407819415653).
 
