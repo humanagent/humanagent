@@ -39,11 +39,6 @@ Agents and messaging:
 <details>
 <summary>Earlier stuff (devrel, decentralized social)</summary>
 
-- [How to send remote attachments with XMTP & Thirdweb SDKs](https://xmtp.org/blog/thirdbweb-wallet-remote-attachments)
-- [Building a decentralized blog with Lens, Vue & IPFS](https://medium.com/@fabriguespe/building-a-decentralized-blog-in-lens-a95c450b1367)
-- [Optimistic UX](https://medium.com/me/stats/post/3dac0a0ff098)
-- [Web3 Social Front-ends: A Glimpse into the Future](https://medium.com/@fabriguespe/web3-social-front-ends-a-glimpse-into-the-future-51466fd49727)
-- [Interact with Aave v3 protocol using web3js](https://medium.com/@fabriguespe/interact-with-aave-v3-protocol-using-web3js-8716e906ad30)
 - [ZuSocial Workshops](https://twitter.com/afrazhaowang/status/1724787663054745855) — Istanbul, Turkey
 - [DevRel University — The impact of DevRel on Product Development](https://twitter.com/DevrelUni/status/1709979442364252253)
 - [What is web3 social](https://twitter.com/easya_app/status/1583809043759783936) — London, UK
@@ -52,7 +47,7 @@ Agents and messaging:
 - [Exploring the potential of Lens Protocol](https://twitter.com/huddle01com/status/1597560196242452482) — Bangalore, India
 - [Intro to web3 social & Lens Protocol](https://www.youtube.com/watch?v=BU6qeocSsME&t=220s) — Zero-to-Dapp Conf, India
 - [Web3 Social House](https://twitter.com/afrazhaowang/status/1631060239146442752) — Denver, Colorado
-- Web3 Social — [Oxford University](https://www.instagram.com/p/ClHoEc-O0jd/)
+- Web3 Hackathon — [Pictures](https://www.instagram.com/p/ClHoEc-O0jd/) - Oxford University
 - [Lens Protocol Applications](https://www.instagram.com/p/CktXnuyjzCq/) — Lisbon, Portugal
 
 </details>
