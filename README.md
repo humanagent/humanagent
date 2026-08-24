@@ -1,12 +1,12 @@
 ### Hi, I'm Fabri
 
-Generalist. ~11 years in startups — founding engineer, CTO, devrel, QA, PM. Mostly whatever the thing needed at the time.
+Generalist. ~15 years in startups, founding engineer, CTO, devrel, QA, PM. Mostly whatever the thing needed at the time.
 
 Right now I'm an agentic engineer. I work on agents that live in group chats with real people, which is mostly about teaching them when not to answer.
 
 I like startups, agents, and building tools for stuff I actually do.
 
-Buenos Aires, Argentina · UTC-3
+Buenos Aires, Argentina
 
 ### Track
 
