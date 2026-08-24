@@ -17,7 +17,7 @@ Buenos Aires, Argentina
 - Protocol reliability and performance testing, and the agent failure taxonomy and monitoring around it — [QA Tools](https://github.com/xmtp/xmtp-qa-tools).
 - Developer experience and [docs](https://docs.xmtp.org/); shipped the [first transacting agent](https://x.com/xmtp_/status/1867254407819415653).
 
-**Developer Relations @ [Lens Protocol](https://twitter.com/LensProtocol) (Aave)** — first DevRel hire. Built the developer ecosystem from zero and ran a +1M grants program.
+**Developer Relations @ [AAVE](https://aave.com)** — first DevRel hire. Built the Lens protocol developer ecosystem from zero and ran a +1M grants program.
 
 **Co-Founder & CTO @ [Linkcard](https://linkcard.app/)** — the entire stack: Nuxt.js, Node.js, Serverless, NoSQL.
 
