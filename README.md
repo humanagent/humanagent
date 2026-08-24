@@ -10,7 +10,7 @@ Buenos Aires, Argentina
 
 ### Track
 
-**Agentic Engineer @ [XMTP](https://xmtp.org/)** — building and running the agent harness behind [Convos](https://convos.org/): turn taking, interrupts, and the reliability layer under it.
+**Agentic Engineer @ [XMTP](https://convos.org/)** — building and running the agent harness behind [Convos](https://convos.org/): turn taking, interrupts, and the reliability layer under it. All in hermes python. 
 
 **Staff Product Manager @ [XMTP](https://xmtp.org/)** — leading AI agents infrastructure on XMTP & [Convos](https://convos.org/), including the [Agent SDK](https://github.com/xmtp/xmtp-js/tree/main/sdks/agent-sdk) for building agents on XMTP.
 
