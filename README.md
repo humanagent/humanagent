@@ -10,11 +10,11 @@ Buenos Aires, Argentina · UTC-3
 
 ### Track
 
-**Agentic Engineer @ [XMTP](https://xmtp.org/)** — building and running the agent harness behind [Convos](https://convos.org/): turn taking, interrupts, and the reliability layer under it.
+**Agentic Engineer @ [XMTP](https://xmtp.org/)** — building and running the agent harness behind [Convos](https://convos.org/): turn taking, interrupts, and the reliability layer under it. Also the [Agent SDK](https://github.com/xmtp/xmtp-js/tree/main/sdks/agent-sdk) for building agents on XMTP.
 
 **Staff Product Manager @ [XMTP](https://xmtp.org/)** — leading AI agents infrastructure on XMTP & [Convos](https://convos.org/)
 
-**QA & Testing Engineer @ [XMTP](https://xmtp.org/)** — protocol reliability and performance testing. Built the agent failure taxonomy and the monitoring around it.
+**QA & Testing Engineer @ [XMTP](https://xmtp.org/)** — protocol reliability and performance testing. Built the agent failure taxonomy and the monitoring around it, in [QA Tools](https://github.com/xmtp/xmtp-qa-tools).
 
 **Developer Relations Engineer @ [XMTP](https://xmtp.org/)** — improved developer experience, contributed to [docs](https://docs.xmtp.org/), shipped the [first transacting agent](https://x.com/xmtp_/status/1867254407819415653)
 
