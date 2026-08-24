@@ -4,11 +4,9 @@ Generalist. ~15 years in startups, engineer, CTO, devrel, QA, PM. Mostly whateve
 
 Right now I'm an agentic engineer. I work on agents that live in group chats with real people, which is mostly about teaching them when not to answer.
 
-I like startups, agents, and building tools for stuff I actually do.
+I like startups, agents, and building tools for stuff I actually do. Buenos Aires, Argentina
 
-Buenos Aires, Argentina
-
-### Track
+### Work
 
 **[XMTP](https://xmtp.org/)** — 2023–now. Agentic engineer; before that staff PM, QA and devrel.
 
