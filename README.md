@@ -10,13 +10,12 @@ Buenos Aires, Argentina
 
 ### Track
 
-**Agentic Engineer @ [XMTP](https://convos.org/)** — building and running the agent harness behind [Convos](https://convos.org/): turn taking, interrupts, and the reliability layer under it. All in hermes python. 
+**[XMTP](https://xmtp.org/) / [Convos](https://convos.org/)** — 2023–now. Agentic engineer; before that staff PM, QA and devrel.
 
-**Staff Product Manager @ [XMTP](https://xmtp.org/)** — leading AI agents infrastructure on XMTP & [Convos](https://convos.org/), including the [Agent SDK](https://github.com/xmtp/xmtp-js/tree/main/sdks/agent-sdk) for building agents on XMTP.
-
-**QA & Testing Engineer @ [XMTP](https://xmtp.org/)** — protocol reliability and performance testing. Built the agent failure taxonomy and the monitoring around it, in [QA Tools](https://github.com/xmtp/xmtp-qa-tools).
-
-**Developer Relations Engineer @ [XMTP](https://xmtp.org/)** — improved developer experience, contributed to [docs](https://docs.xmtp.org/), shipped the [first transacting agent](https://x.com/xmtp_/status/1867254407819415653)
+- **Now — the agent harness behind [Convos](https://convos.org/):** turn taking, interrupts, and the reliability layer under it. Python, on Hermes.
+- Led AI agents infrastructure and created the [Agent SDK](https://github.com/xmtp/xmtp-js/tree/main/sdks/agent-sdk) for building agents on XMTP.
+- Protocol reliability and performance testing, and the agent failure taxonomy and monitoring around it — [QA Tools](https://github.com/xmtp/xmtp-qa-tools).
+- Developer experience and [docs](https://docs.xmtp.org/); shipped the [first transacting agent](https://x.com/xmtp_/status/1867254407819415653).
 
 **Developer Relations @ [Lens Protocol](https://twitter.com/LensProtocol) (Aave)** — first DevRel hire. Built the developer ecosystem from zero and ran a +1M grants program.
 
