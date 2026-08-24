@@ -1,6 +1,6 @@
 ### Hi, I'm Fabri
 
-Generalist. ~15 years in startups, founding engineer, CTO, devrel, QA, PM. Mostly whatever the thing needed at the time.
+Generalist. ~15 years in startups, engineer, CTO, devrel, QA, PM. Mostly whatever the thing needed at the time.
 
 Right now I'm an agentic engineer. I work on agents that live in group chats with real people, which is mostly about teaching them when not to answer.
 
@@ -13,7 +13,7 @@ Buenos Aires, Argentina
 **[XMTP](https://xmtp.org/)** — 2023–now. Agentic engineer; before that staff PM, QA and devrel.
 
 - **Now — the agent harness behind [Convos](https://convos.org/):** turn taking, interrupts, and the reliability layer under it. Python, on Hermes.
-- Led AI agents infrastructure and created the [Agent SDK](https://github.com/xmtp/xmtp-js/tree/main/sdks/agent-sdk) for building agents on XMTP.
+- Led AI agents and miniapps. worked closely with Coinbase, WORLD and created the [Agent SDK](https://github.com/xmtp/xmtp-js/tree/main/sdks/agent-sdk) for building agents on XMTP.
 - Protocol reliability and performance testing, and the agent failure taxonomy and monitoring around it — [QA Tools](https://github.com/xmtp/xmtp-qa-tools).
 - Developer experience and [docs](https://docs.xmtp.org/); shipped the [first transacting agent](https://x.com/xmtp_/status/1867254407819415653).
 
