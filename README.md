@@ -29,6 +29,7 @@ Buenos Aires, Argentina · UTC-3
 Agents and messaging:
 
 - [Teaching an agent to shut up](https://claude.ai/code/artifact/18ba94b2-c903-4b23-9199-ca776c73048d) — field notes on running an agent in a group chat with real people, and why most of the work is deciding when not to answer
+- [Silence, out loud](https://claude.ai/code/artifact/a6465e0c-0455-4049-9b3b-d8cc83664dbf) — the same problem in voice: the hard half of a voice agent isn't speaking well, it's knowing when not to speak
 - [Agents that transact with MessageKit](https://x.com/xmtp_/status/1867254407819415653)
 - [Introducing XMTP Developer Docs](https://medium.com/@fabriguespe/introducing-the-refreshed-xmtp-developer-documentation-2daa9b0ed5a3)
 - [Developer Ecosystem Thesis](https://medium.com/@fabriguespe/developer-ecosystems-thesis-a109694ce5c4)
