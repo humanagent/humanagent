@@ -8,14 +8,6 @@ I like startups, agents, and building tools for stuff I actually do.
 
 Buenos Aires, Argentina · UTC-3
 
-### What I work on
-
-**[Convos](https://convos.org/)** — consumer messenger where you can make little agents for your group. I build the harness they run on: turn taking, interrupts, and deciding whether a message is even for the agent. Runs in production, in real group chats.
-
-**Testing agents** — I got into how agents break, not just whether they answer well. Built a failure taxonomy for production (context loss, phantom artifacts, refusals, bad terminations) with dashboards and alerts on top. [QA Tools](https://github.com/xmtp/xmtp-qa-tools) is the public part.
-
-**[Agent SDK](https://github.com/xmtp/xmtp-js/tree/main/sdks/agent-sdk)** — SDKs for building agents on XMTP · [CLI](https://github.com/xmtp/xmtp-js/tree/main/packages/xmtp-cli) · [Examples](https://github.com/ephemeraHQ/xmtp-agent-examples)
-
 ### Track
 
 **Agentic Engineer @ [XMTP](https://xmtp.org/)** — building and running the agent harness behind [Convos](https://convos.org/): turn taking, interrupts, and the reliability layer under it.
