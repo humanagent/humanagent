@@ -10,7 +10,7 @@ Buenos Aires, Argentina
 
 ### Track
 
-**[XMTP](https://xmtp.org/) / [Convos](https://convos.org/)** — 2023–now. Agentic engineer; before that staff PM, QA and devrel.
+**[XMTP](https://xmtp.org/)** — 2023–now. Agentic engineer; before that staff PM, QA and devrel.
 
 - **Now — the agent harness behind [Convos](https://convos.org/):** turn taking, interrupts, and the reliability layer under it. Python, on Hermes.
 - Led AI agents infrastructure and created the [Agent SDK](https://github.com/xmtp/xmtp-js/tree/main/sdks/agent-sdk) for building agents on XMTP.
