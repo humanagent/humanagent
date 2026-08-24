@@ -18,6 +18,8 @@ Buenos Aires, Argentina · UTC-3
 
 ### Track
 
+**Agentic Engineer @ [XMTP](https://xmtp.org/)** — building and running the agent harness behind [Convos](https://convos.org/): turn taking, interrupts, and the reliability layer under it.
+
 **Staff Product Manager @ [XMTP](https://xmtp.org/)** — leading AI agents infrastructure on XMTP & [Convos](https://convos.org/)
 
 **QA & Testing Engineer @ [XMTP](https://xmtp.org/)** — protocol reliability and performance testing. Built the agent failure taxonomy and the monitoring around it.
