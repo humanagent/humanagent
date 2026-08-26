@@ -19,8 +19,7 @@ I like startups, agents, and building tools for stuff I actually do. Buenos Aire
 
 **Co-Founder & CTO @ [Linkcard](https://linkcard.app/)** — the entire stack: Nuxt.js, Node.js, Serverless, NoSQL.
 
-**Founding Engineer @ Altoweb** — built an agency business and the [Fastway Framework](https://github.com/humanagent/fastway/) for e-commerce sites as a SaaS.
-
+**Founding Engineer @ Altoweb** — bootstrapped an ecommerce agency business and graphic design 
 ### Writing & talks
 
 Agents and messaging:
