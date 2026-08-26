@@ -19,9 +19,6 @@ I like startups, agents, and building tools for stuff I actually do. Buenos Aire
 
 **Co-Founder & CTO @ [Linkcard](https://linkcard.app/)** — the entire stack: Nuxt.js, Node.js, Serverless, NoSQL.
 
-**Founding Engineer @ Altoweb** — bootstrapped an ecommerce agency business and graphic design 
-### Writing & talks
-
 Agents and messaging:
 
 - [Teaching an agent to shut up](https://claude.ai/code/artifact/18ba94b2-c903-4b23-9199-ca776c73048d) — field notes on running an agent in a group chat with real people, and why most of the work is deciding when not to answer
