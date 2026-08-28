@@ -6,7 +6,7 @@ Right now I'm an agentic engineer. I work on agents that live in group chats wit
 
 I like startups, agents, and building tools for stuff I actually do. Buenos Aires, Argentina
 
-### Work
+Work
 
 **[XMTP](https://xmtp.org/)** — 2023–now. Agentic engineer; before that staff PM, QA and devrel.
 
