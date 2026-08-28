@@ -8,7 +8,7 @@ I like startups, agents, and building tools for stuff I actually do. Buenos Aire
 
 Work
 
-**[XMTP Labs](https://xmtp.org/)** backed by 16 — 2023–now. Agentic engineer; before that staff PM, QA and devrel.
+**[XMTP Labs](https://xmtp.org/)** backed by [a16z](https://a16z.com/) — 2023–now. Agentic engineer; before that staff PM, QA and devrel.
 
 - **Now — the agent harness behind [Convos](https://convos.org/):** turn taking, interrupts, and the reliability layer under it. Python, on Hermes.
 - Led AI agents and miniapps. worked closely with [Coinbase](https://docs.cdp.coinbase.com/?country=AR&currency=ARS&mobile=false&japan_bespoke_content=false&logged_in=false&null=), [World](https://world.org/) and created the [Agent SDK](https://github.com/xmtp/xmtp-js/tree/main/sdks/agent-sdk) for building agents on XMTP.
