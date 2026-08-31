@@ -1,6 +1,6 @@
 ### Hi, I'm Fabri
 
-~15 years in startups, engineer, CTO, devrel, QA, Growth, PM. Mostly whatever the thing needed at the time. Buenos Aires, Argentina
+~15 years in startups, engineer, CTO, devrel, QA, Growth, PM. Mostly whatever the thing needed at the time. 
 
 Right now I'm an agentic engineer. I work on agents that live in group chats with real people, which is mostly about teaching them when not to answer.
 
@@ -51,3 +51,8 @@ Agents and messaging:
 **Rubik's cube** — sub-30 seconds average, official record 23s. Some [solves](https://twitter.com/fabriguespe/status/1677089304470859777) [here](https://www.youtube.com/shorts/4Mg5uUTI07Q) and [here](https://www.youtube.com/shorts/oFs7KQm0h-8).
 
 **Play-to-Earn Guild** — rode the NFT bubble with a [500-member gaming guild](https://twitter.com/fabriguespe/status/1479450280907448320) in Venezuela, on a Discord bot I wrote. Scholarships, tournaments, earnings distribution.
+
+
+--
+fguespe@gmail.com
+Buenos Aires, Argentina
