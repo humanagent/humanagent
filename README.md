@@ -12,9 +12,6 @@ Developer relations engineer and full stack developer, in Buenos Aires. ~15 year
 
 [Coinbase](https://docs.cdp.coinbase.com/), [World](https://world.org/)
 
-#### Places
-
-Buenos Aires, Bogotá, Lisbon, London, Oxford, Paris, Brussels, Istanbul, Denver, Stanford, Bangalore, Bangkok. Conferences, hackathons, workshops and university talks, on messaging, agents and developer ecosystems.
 
 #### Writing
 
@@ -23,7 +20,11 @@ Buenos Aires, Bogotá, Lisbon, London, Oxford, Paris, Brussels, Istanbul, Denver
 - [Introducing XMTP developer docs](https://medium.com/@fabriguespe/introducing-the-refreshed-xmtp-developer-documentation-2daa9b0ed5a3)
 - [first transacting agent](https://x.com/xmtp_/status/1867254407819415653): agents and stables, 2023.
 
+#### Talks
+
+Buenos Aires, Bogotá, Lisbon, London, Oxford, Paris, Brussels, Istanbul, Denver, Stanford, Bangalore, Bangkok. Conferences, hackathons, workshops and university talks, on messaging, agents and developer ecosystems.
 <details>
+  
 <summary>Talks</summary>
 
 - [Building group chats with XMTP](https://www.youtube.com/watch?v=FZ0MGKg2l9Q), Brussels
