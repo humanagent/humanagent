@@ -2,8 +2,6 @@
 
 Developer relations engineer and full stack developer, in Buenos Aires. ~15 years in startups: engineer, CTO, devrel, QA, growth, PM. Mostly where developers are.
 
-### Projects
-
 - **[convos](https://convos.org/)**: the agent harness. Turn taking, interrupts, reliability.
 - **[xmtp agent sdk](https://github.com/xmtp/xmtp-js/tree/main/sdks/agent-sdk)**: created the SDK, [examples](https://github.com/xmtplabs/xmtp-agent-examples) and led agents and miniapps for Coinbase and World
 - **[xmtp qa tools](https://github.com/xmtp/xmtp-qa-tools)**: protocol reliability and performance testing.
@@ -12,7 +10,7 @@ Developer relations engineer and full stack developer, in Buenos Aires. ~15 year
 - **[lens protocol](https://lens.xyz/docs/chain/overview) / aave**: docs, community and a $1M grants program.
 - **[linkcard](https://linkcard.app/)**: co-founder and CTO. Built the full stack.
 
-### Worked with
+#### Worked with
 
 [Coinbase](https://docs.cdp.coinbase.com/), [World](https://world.org/), [Base](https://www.base.org/) and [Aave](https://aave.com/).
 
