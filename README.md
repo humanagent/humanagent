@@ -4,9 +4,8 @@ Developer relations engineer and full stack developer, in Buenos Aires. ~15 year
 
 ### Projects
 
-- **[repe.club](https://repe.club/)**: bookings, payments and court video for padel clubs.
 - **[convos](https://convos.org/)**: the agent harness. Turn taking, interrupts, reliability.
-- **[xmtp agent sdk](https://github.com/xmtp/xmtp-js/tree/main/sdks/agent-sdk)**: created the SDK, led agents and miniapps.
+- **[xmtp agent sdk](https://github.com/xmtp/xmtp-js/tree/main/sdks/agent-sdk)**: created the SDK, [examples](https://github.com/xmtplabs/xmtp-agent-examples) and led agents and miniapps for Coinbase and World
 - **[xmtp qa tools](https://github.com/xmtp/xmtp-qa-tools)**: protocol reliability and performance testing.
 - **[xmtp docs](https://docs.xmtp.org/)**: developer docs, shipped as DX engineer.
 - **[first transacting agent](https://x.com/xmtp_/status/1867254407819415653)**: XMTP's first agent that moves money, 2023.
