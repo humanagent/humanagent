@@ -19,7 +19,7 @@ Buenos Aires, Bogotá, Lisbon, London, Oxford, Paris, Brussels, Istanbul, Denver
 
 #### Writing
 
-- [Coinbase: the future of messaging](https://x.com/buildonbase/status/1930686350728351799)
+- [Stream: Coinbase, the future of messaging](https://x.com/buildonbase/status/1930686350728351799)
 - [Developer ecosystems thesis](https://medium.com/@fabriguespe/developer-ecosystems-thesis-a109694ce5c4)
 - [Introducing XMTP developer docs](https://medium.com/@fabriguespe/introducing-the-refreshed-xmtp-developer-documentation-2daa9b0ed5a3)
 - [first transacting agent](https://x.com/xmtp_/status/1867254407819415653): agents and stables, 2023.
