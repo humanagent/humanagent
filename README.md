@@ -9,9 +9,9 @@ Developer relations engineer and full stack developer, in Buenos Aires. ~15 year
 - **[lens protocol](https://lens.xyz/docs/chain/overview) / aave**: docs, community and a $1M grants program.
 - **[linkcard](https://linkcard.app/)**: co-founder and CTO. Built the full stack.
 
-#### Worked with
+#### Worked  closely with
 
-[Coinbase](https://docs.cdp.coinbase.com/), and [World](https://world.org/)
+[Coinbase](https://docs.cdp.coinbase.com/), [World](https://world.org/)
 
 #### Places
 
