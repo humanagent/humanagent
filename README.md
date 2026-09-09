@@ -14,11 +14,11 @@ Developer relations engineer and full stack developer, in Buenos Aires. ~15 year
 
 [Coinbase](https://docs.cdp.coinbase.com/), [World](https://world.org/), [Base](https://www.base.org/) and [Aave](https://aave.com/).
 
-## Places
+#### Places
 
 Buenos Aires, Bogotá, Lisbon, London, Oxford, Paris, Brussels, Istanbul, Denver, Stanford, Bangalore, Bangkok. Conferences, hackathons, workshops and university talks, on messaging, agents and developer ecosystems.
 
-## Writing
+#### Writing
 
 - [Agents that transact with MessageKit](https://x.com/xmtp_/status/1867254407819415653)
 - [Miniapps 101](https://x.com/humanagent_eth/status/1989701337701818733), Buenos Aires
