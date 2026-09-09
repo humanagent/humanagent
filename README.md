@@ -4,7 +4,7 @@ Developer relations engineer and full stack developer, in Buenos Aires. ~15 year
 
 - **[convos](https://convos.org/)**: the agent harness. Turn taking, interrupts, reliability.
 - **[xmtp agent sdk](https://github.com/xmtp/xmtp-js/tree/main/sdks/agent-sdk)**: led the SDK, [examples](https://github.com/xmtplabs/xmtp-agent-examples) and miniapps for Coinbase and World
-- **[xmtp](https://xmtp.org/)** (backed by [a16z](https://a16z.com/)): developer [docs](https://docs.xmtp.org), protocol reliability and performance [xmtp qa tools](https://github.com/xmtp/xmtp-qa-tools)
+- **[xmtp](https://xmtp.org/)** (backed by [a16z](https://a16z.com/)): developer [docs](https://docs.xmtp.org), protocol reliability and performance [testing](https://github.com/xmtp/xmtp-qa-tools)
 - **[aave](https://lens.xyz/docs/chain/overview)**: docs, community and a $1M grants program.
 - **[linkcard](https://linkcard.app/)**: co-founder and CTO. Built the full stack.
 
