@@ -1,58 +1,56 @@
 ### Hi, I'm Fabri
 
-~15 years in startups, engineer, CTO, devrel, QA, Growth, PM. Mostly whatever the thing needed at the time. 
+Developer relations engineer and full stack developer, in Buenos Aires. ~15 years in startups: engineer, CTO, devrel, QA, growth, PM. Mostly whatever the thing needed at the time. Right now I build agents that live in group chats with real people.
 
-Right now I'm an agentic engineer. I work on agents that live in group chats with real people, which is mostly about teaching them when not to answer.
+### Projects
 
-Work
+- **[repe.club](https://repe.club/)**: bookings, payments and court video for padel clubs.
+- **[convos](https://convos.org/)**: the agent harness. Turn taking, interrupts, reliability.
+- **[xmtp agent sdk](https://github.com/xmtp/xmtp-js/tree/main/sdks/agent-sdk)**: created the SDK, led agents and miniapps.
+- **[xmtp qa tools](https://github.com/xmtp/xmtp-qa-tools)**: protocol reliability and performance testing.
+- **[xmtp docs](https://docs.xmtp.org/)**: developer docs, shipped as DX engineer.
+- **[first transacting agent](https://x.com/xmtp_/status/1867254407819415653)**: XMTP's first agent that moves money, 2023.
+- **[lens protocol](https://lens.xyz/docs/chain/overview) / aave**: docs, community and a $1M grants program.
+- **[linkcard](https://linkcard.app/)**: co-founder and CTO. Built the full stack.
 
-**[XMTP Labs](https://xmtp.org/)** backed by [a16z](https://a16z.com/) — 2023–now. Agentic engineer; before that staff PM, QA and devrel.
+Before that: founding engineer at Altoweb, and I started out at [Calipso](https://www.calipso.com/erp/), an Argentine cloud ERP now part of Visma. In between I ran my own digital marketing consultancy, which turned into an ecommerce business.
 
-- **Now — the agent harness behind [Convos](https://convos.org/):** turn taking, interrupts, and the reliability layer under it. Python, on Hermes.
-- Led AI agents and miniapps. worked closely with [Coinbase](https://docs.cdp.coinbase.com/?country=AR&currency=ARS&mobile=false&japan_bespoke_content=false&logged_in=false&null=), [World](https://world.org/) and created the [Agent SDK](https://github.com/xmtp/xmtp-js/tree/main/sdks/agent-sdk) for building agents on XMTP.
-- Protocol reliability and performance testing, and the agent failure taxonomy and monitoring around it — [QA Tools](https://github.com/xmtp/xmtp-qa-tools).
-- Developer Experience Engineer. shipped [docs](https://docs.xmtp.org/) and the [first transacting agent](https://x.com/xmtp_/status/1867254407819415653).
+### Worked with
 
-**Developer Relations @ [AAVE](https://aave.com)** — first DevRel hire. Built the [Lens protocol](https://lens.xyz/docs/chain/overview) developer ecosystem from zero and ran a +1M grants program.
+[Coinbase](https://docs.cdp.coinbase.com/), [World](https://world.org/), [Base](https://www.base.org/) and [Aave](https://aave.com/).
 
-**Co-Founder & CTO @ [Linkcard](https://linkcard.app/)** — the entire stack: Nuxt.js, Node.js, Serverless, NoSQL.
+### Places
 
-Agents and messaging:
+Buenos Aires, Bogotá, Lisbon, London, Oxford, Paris, Brussels, Istanbul, Denver, Stanford, Bangalore, Bangkok. Conferences, hackathons, workshops and university talks, on messaging, agents and developer ecosystems.
 
-- [Teaching an agent to shut up](https://claude.ai/code/artifact/18ba94b2-c903-4b23-9199-ca776c73048d) — field notes on running an agent in a group chat with real people, and why most of the work is deciding when not to answer
+### Writing
+
 - [Agents that transact with MessageKit](https://x.com/xmtp_/status/1867254407819415653)
-- [Introducing XMTP Developer Docs](https://medium.com/@fabriguespe/introducing-the-refreshed-xmtp-developer-documentation-2daa9b0ed5a3)
-- [Developer Ecosystem Thesis](https://medium.com/@fabriguespe/developer-ecosystems-thesis-a109694ce5c4)
-- [Miniapps 101](https://x.com/humanagent_eth/status/1989701337701818733) — building agents and mini apps on Base. Buenos Aires, Argentina.
-- [Coinbase: The future of Messaging](https://x.com/buildonbase/status/1930686350728351799) — production agent deployments, online.
-- [MessageKit AI Skills](https://youtu.be/4pfdHL3n908?t=16814) — Bangkok, Thailand
-- [Introducing MessageKit](https://www.youtube.com/watch?v=2ijTqmo_A5c&t=213s) — XMTP Dev Call
-- [Building Group Chats with XMTP](https://www.youtube.com/watch?v=FZ0MGKg2l9Q) — Brussels, Belgium
-- [How to build web3 native messaging apps with XMTP](https://www.youtube.com/watch?v=OLQcniVSyA4) — Paris, France
+- [Miniapps 101](https://x.com/humanagent_eth/status/1989701337701818733), Buenos Aires
+- [Coinbase: the future of messaging](https://x.com/buildonbase/status/1930686350728351799)
+- [Developer ecosystems thesis](https://medium.com/@fabriguespe/developer-ecosystems-thesis-a109694ce5c4)
+- [Introducing XMTP developer docs](https://medium.com/@fabriguespe/introducing-the-refreshed-xmtp-developer-documentation-2daa9b0ed5a3)
 
 <details>
-<summary>Earlier stuff (devrel, decentralized social)</summary>
+<summary>Talks</summary>
 
-- [ZuSocial Workshops](https://twitter.com/afrazhaowang/status/1724787663054745855) — Istanbul, Turkey
-- [DevRel University — The impact of DevRel on Product Development](https://twitter.com/DevrelUni/status/1709979442364252253)
-- [What is web3 social](https://twitter.com/easya_app/status/1583809043759783936) — London, UK
-- [Lens Workshop](https://twitter.com/michelleanmar/status/1578461480059834369) — Bogotá, Colombia
-- Decentralized Social in [Argentina](https://twitter.com/humanagent_eth/status/1604261430877904899)
-- [Exploring the potential of Lens Protocol](https://twitter.com/huddle01com/status/1597560196242452482) — Bangalore, India
-- [Intro to web3 social & Lens Protocol](https://www.youtube.com/watch?v=BU6qeocSsME&t=220s) — Zero-to-Dapp Conf, India
-- [Web3 Social House](https://twitter.com/afrazhaowang/status/1631060239146442752) — Denver, Colorado
-- Web3 Hackathon — [Pictures](https://www.instagram.com/p/ClHoEc-O0jd/) - Oxford University
-- [Lens Protocol Applications](https://www.instagram.com/p/CktXnuyjzCq/) — Lisbon, Portugal
+- [MessageKit AI Skills](https://youtu.be/4pfdHL3n908?t=16814), Bangkok
+- [Introducing MessageKit](https://www.youtube.com/watch?v=2ijTqmo_A5c&t=213s), XMTP dev call
+- [Building group chats with XMTP](https://www.youtube.com/watch?v=FZ0MGKg2l9Q), Brussels
+- [How to build web3 native messaging apps with XMTP](https://www.youtube.com/watch?v=OLQcniVSyA4), Paris
+- [ZuSocial workshops](https://twitter.com/afrazhaowang/status/1724787663054745855), Istanbul
+- [DevRel University: the impact of DevRel on product development](https://twitter.com/DevrelUni/status/1709979442364252253)
+- [What is web3 social](https://twitter.com/easya_app/status/1583809043759783936), London
+- [Lens workshop](https://twitter.com/michelleanmar/status/1578461480059834369), Bogotá
+- [Decentralized social](https://twitter.com/humanagent_eth/status/1604261430877904899), Buenos Aires
+- [Exploring the potential of Lens Protocol](https://twitter.com/huddle01com/status/1597560196242452482), Bangalore
+- [Intro to web3 social and Lens Protocol](https://www.youtube.com/watch?v=BU6qeocSsME&t=220s), Zero-to-Dapp Conf, India
+- [Web3 Social House](https://twitter.com/afrazhaowang/status/1631060239146442752), Denver
+- [Web3 hackathon](https://www.instagram.com/p/ClHoEc-O0jd/), Oxford University
+- [Lens Protocol applications](https://www.instagram.com/p/CktXnuyjzCq/), Lisbon
 
 </details>
 
 ### Fun
 
-**Rubik's cube** — sub-30 seconds average, official record 23s. Some [solves](https://twitter.com/fabriguespe/status/1677089304470859777) [here](https://www.youtube.com/shorts/4Mg5uUTI07Q) and [here](https://www.youtube.com/shorts/oFs7KQm0h-8).
-
-**Play-to-Earn Guild** — rode the NFT bubble with a [500-member gaming guild](https://twitter.com/fabriguespe/status/1479450280907448320) in Venezuela, on a Discord bot I wrote. Scholarships, tournaments, earnings distribution.
-
-
---
-fguespe@gmail.com
-Buenos Aires, Argentina
+**Rubik's cube.** Sub-30 second average, official record 23s. A few solves [here](https://twitter.com/fabriguespe/status/1677089304470859777), [here](https://www.youtube.com/shorts/4Mg5uUTI07Q) and [here](https://www.youtube.com/shorts/oFs7KQm0h-8).
