@@ -1,6 +1,6 @@
 ### Hi, I'm Fabri
 
-Developer relations engineer and full stack developer, in Buenos Aires. ~15 years in startups: engineer, CTO, devrel, QA, growth, PM. Mostly whatever the thing needed at the time. Right now I build agents that live in group chats with real people.
+Developer relations engineer and full stack developer, in Buenos Aires. ~15 years in startups: engineer, CTO, devrel, QA, growth, PM. Mostly where developers are.
 
 ### Projects
 
@@ -11,8 +11,6 @@ Developer relations engineer and full stack developer, in Buenos Aires. ~15 year
 - **[first transacting agent](https://x.com/xmtp_/status/1867254407819415653)**: XMTP's first agent that moves money, 2023.
 - **[lens protocol](https://lens.xyz/docs/chain/overview) / aave**: docs, community and a $1M grants program.
 - **[linkcard](https://linkcard.app/)**: co-founder and CTO. Built the full stack.
-
-Before that: founding engineer at Altoweb, and I started out at [Calipso](https://www.calipso.com/erp/), an Argentine cloud ERP now part of Visma. In between I ran my own digital marketing consultancy, which turned into an ecommerce business.
 
 ### Worked with
 
