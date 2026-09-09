@@ -1,6 +1,6 @@
 ### Hi, I'm Fabri
 
-Developer relations engineer and full stack developer, in Buenos Aires. ~15 years in startups: engineer, CTO, devrel, QA, growth, PM. Mostly where developers are.
+DevEx/DevRel engineer, in Buenos Aires. ~15 years in software: engineer, CTO, devrel, QA, startups, growth, PM. 
 
 - **[convos](https://convos.org/)**: the agent harness. Turn taking, interrupts, reliability.
 - **[xmtp agent sdk](https://github.com/xmtp/xmtp-js/tree/main/sdks/agent-sdk)**: led the SDK, [examples](https://github.com/xmtplabs/xmtp-agent-examples) and miniapps for Coinbase and World
