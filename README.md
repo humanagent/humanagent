@@ -11,7 +11,7 @@ Developer relations engineer and full stack developer, in Buenos Aires. ~15 year
 
 #### Worked with
 
-[Coinbase](https://docs.cdp.coinbase.com/), [World](https://world.org/), [Base](https://www.base.org/) and [Aave](https://aave.com/).
+[Coinbase](https://docs.cdp.coinbase.com/), and [World](https://world.org/)
 
 #### Places
 
