@@ -3,8 +3,8 @@
 DevEx/DevRel engineer, in Buenos Aires. ~15 years in software: engineer, CTO, devrel, QA, startups, growth, PM. 
 
 - **[convos](https://convos.org/)**: the agent harness. Turn taking, interrupts, reliability.
-- **[xmtp agent sdk](https://github.com/xmtp/xmtp-js/tree/main/sdks/agent-sdk)**: led the SDK, [examples](https://github.com/xmtplabs/xmtp-agent-examples) and miniapps for Coinbase and World
-- **[xmtp](https://xmtp.org/)** (backed by [a16z](https://a16z.com/)): developer [docs](https://docs.xmtp.org), protocol reliability and performance [testing](https://github.com/xmtp/xmtp-qa-tools)
+- **[xmtp agent sdk](https://github.com/xmtp/xmtp-js/tree/main/sdks/agent-sdk)**: agents devex, [examples](https://github.com/xmtplabs/xmtp-agent-examples) and miniapps for Coinbase and World
+- **[xmtp](https://xmtp.org/)** (backed by [a16z](https://a16z.com/)): devrel, [docs](https://docs.xmtp.org), protocol reliability and performance [testing](https://github.com/xmtp/xmtp-qa-tools)
 - **[aave](https://lens.xyz/docs/chain/overview)**: docs, community and a $1M grants program.
 - **[linkcard](https://linkcard.app/)**: co-founder and CTO. Built the full stack.
 
