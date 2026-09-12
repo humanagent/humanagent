@@ -1,6 +1,6 @@
 ### Hi, I'm Fabri
 
-DevEx/DevRel engineer, in Buenos Aires. ~15 years in software: engineer, CTO, devrel, QA, startups, growth, PM. 
+Agents Devex Engineer.  ~15 years in software: engineer, CTO, devrel, QA, startups, growth, PM. 
 
 - **[convos](https://convos.org/)**: the agent harness. Turn taking, interrupts, reliability.
 - **[xmtp agent sdk](https://github.com/xmtp/xmtp-js/tree/main/sdks/agent-sdk)**: sdk, [docs](https://docs.xmtp.org/agents/get-started/build-an-agent), devex, [examples](https://github.com/xmtplabs/xmtp-agent-examples) and miniapps for Coinbase and World
