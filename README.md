@@ -10,7 +10,7 @@ Agents Devex Engineer.  ~15 years in software: engineer, CTO, devrel, QA, startu
 
 #### Worked  closely with
 
-[Coinbase](https://docs.cdp.coinbase.com/), [World](https://world.org/)
+[Coinbase](https://docs.cdp.coinbase.com/), [World](https://world.org/) and [Circle](http://circle.com/)
 
 
 #### Writing
