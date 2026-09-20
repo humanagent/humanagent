@@ -1,6 +1,6 @@
 ### Hi, I'm Fabri
 
-Agents Devex Engineer.  ~15 years in software: engineer, CTO, devrel, QA, startups, growth, PM. 
+Agents, Startups, Engineering.  ~15 years in software: engineer, CTO, devrel, QA, startups, growth, PM. 
 
 - **[repe.club](https://repe.club/)**: full stack product engineer (infra, video, web, mobile, llm)
 - **[convos](https://convos.org/)**: the agent harness. Turn taking, interrupts, reliability.
