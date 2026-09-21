@@ -23,9 +23,6 @@ Agents, Startups, Engineering.  ~15 years in software: engineer, CTO, devrel, QA
 #### Talks
 
 Buenos Aires, Bogotá, Lisbon, London, Oxford, Paris, Brussels, Istanbul, Denver, Stanford, Bangalore, Bangkok. Conferences, hackathons, workshops and university talks, on messaging, agents and developer ecosystems.
-<details>
-  
-<summary>Talks</summary>
 
 - [Building group chats with XMTP](https://www.youtube.com/watch?v=FZ0MGKg2l9Q), Brussels
 - [How to build web3 native messaging apps with XMTP](https://www.youtube.com/watch?v=OLQcniVSyA4), Paris
@@ -40,7 +37,6 @@ Buenos Aires, Bogotá, Lisbon, London, Oxford, Paris, Brussels, Istanbul, Denver
 - [Web3 hackathon](https://www.instagram.com/p/ClHoEc-O0jd/), Oxford University
 - [Lens Protocol applications](https://www.instagram.com/p/CktXnuyjzCq/), Lisbon
 
-</details>
 
 ### Fun
 
