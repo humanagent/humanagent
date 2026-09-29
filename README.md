@@ -13,12 +13,13 @@ Agents, Startups, Engineering.  ~15 years in software: engineer, CTO, devrel, QA
 [Coinbase](https://docs.cdp.coinbase.com/), [World](https://world.org/) and [Circle](http://circle.com/)
 
 
-#### Writing
+#### Writings
 
+- [Teaching agents how to shut up](https://medium.com/@fabriguespe/teaching-an-agent-to-shut-up-bb8f20ac51b8?sharedUserId=fabriguespe)
 - [Stream: Coinbase, the future of messaging](https://x.com/buildonbase/status/1930686350728351799)
 - [Developer ecosystems thesis](https://medium.com/@fabriguespe/developer-ecosystems-thesis-a109694ce5c4)
 - [Introducing XMTP developer docs](https://medium.com/@fabriguespe/introducing-the-refreshed-xmtp-developer-documentation-2daa9b0ed5a3)
-- [first transacting agent](https://x.com/xmtp_/status/1867254407819415653): agents and stables, 2023.
+- [first transacting agent](https://x.com/xmtp_/status/1867254407819415653)
 
 #### Talks
 
