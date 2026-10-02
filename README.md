@@ -2,7 +2,7 @@
 
 Agents, Startups, Engineering.  ~15 years in software: engineer, CTO, devrel, QA, startups, growth, PM. 
 
-- **[convos](https://convos.org/)**: the agent harness. Turn taking, tools, evals, observability.
+- **[convos](https://convos.org/)**: the agent harness. Runtime, infra, harness, evals, observability.
 - **[xmtp agent sdk](https://github.com/xmtp/xmtp-js/tree/main/sdks/agent-sdk)**: sdk, [docs](https://docs.xmtp.org/agents/get-started/build-an-agent), devex, [examples](https://github.com/xmtplabs/xmtp-agent-examples) and miniapps for Coinbase and World
 - **[xmtp](https://xmtp.org/)** (backed by [a16z](https://a16z.com/)): devrel, [docs](https://docs.xmtp.org), protocol reliability and performance [testing](https://github.com/xmtp/xmtp-qa-tools)
 - **[aave](https://lens.xyz/docs/chain/overview)**: docs, community and a $1M grants program.
