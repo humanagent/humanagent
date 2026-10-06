@@ -22,7 +22,7 @@ AI engineer in Buenos Aires, ~15 years in software. I build agent harnesses, LLM
 
 12 cities across 4 continents: Buenos Aires, Bogotá, Lisbon, London, Oxford, Paris, Brussels, Istanbul, Denver, Stanford, Bangalore, Bangkok. Conferences, university talks, workshops and hackathons, on messaging and agents.
 
-- [Building group chats](https://www.youtube.com/watch?v=FZ0MGKg2l9Q), Brussels
+- [Building group chat agents](https://www.youtube.com/watch?v=FZ0MGKg2l9Q), Brussels
 - [Building messaging apps](https://www.youtube.com/watch?v=OLQcniVSyA4), Paris
 - [Hackathon talk](https://www.instagram.com/p/ClHoEc-O0jd/), Oxford University
 - [Conference talk](https://www.youtube.com/watch?v=BU6qeocSsME&t=220s), Bangalore
