@@ -18,9 +18,18 @@ AI engineer in Buenos Aires, ~15 years in software. I build agent harnesses, LLM
 - [Teaching agents how to shut up](https://medium.com/@fabriguespe/teaching-an-agent-to-shut-up-bb8f20ac51b8?sharedUserId=fabriguespe)
 - [Developer ecosystems thesis](https://medium.com/@fabriguespe/developer-ecosystems-thesis-a109694ce5c4)
 
-<!-- 
 #### Talks
 
+12 cities across 4 continents: Buenos Aires, Bogotá, Lisbon, London, Oxford, Paris, Brussels, Istanbul, Denver, Stanford, Bangalore, Bangkok. Conferences, university talks, workshops and hackathons, on messaging and agents.
+
+- [Building group chats](https://www.youtube.com/watch?v=FZ0MGKg2l9Q), Brussels
+- [Building messaging apps](https://www.youtube.com/watch?v=OLQcniVSyA4), Paris
+- [Hackathon talk](https://www.instagram.com/p/ClHoEc-O0jd/), Oxford University
+- [Conference talk](https://www.youtube.com/watch?v=BU6qeocSsME&t=220s), Bangalore
+
+
+
+<!-- 
 Buenos Aires, Bogotá, Lisbon, London, Oxford, Paris, Brussels, Istanbul, Denver, Stanford, Bangalore, Bangkok. Conferences, hackathons, workshops and university talks, on messaging, agents and developer ecosystems.
 
 
