@@ -18,6 +18,7 @@ Agents, Startups, Engineering.  ~15 years in software: engineer, CTO, devrel, QA
 - [Teaching agents how to shut up](https://medium.com/@fabriguespe/teaching-an-agent-to-shut-up-bb8f20ac51b8?sharedUserId=fabriguespe)
 - [Developer ecosystems thesis](https://medium.com/@fabriguespe/developer-ecosystems-thesis-a109694ce5c4)
 
+<!-- 
 #### Talks
 
 Buenos Aires, Bogotá, Lisbon, London, Oxford, Paris, Brussels, Istanbul, Denver, Stanford, Bangalore, Bangkok. Conferences, hackathons, workshops and university talks, on messaging, agents and developer ecosystems.
@@ -34,7 +35,7 @@ Buenos Aires, Bogotá, Lisbon, London, Oxford, Paris, Brussels, Istanbul, Denver
 - [Web3 Social House](https://twitter.com/afrazhaowang/status/1631060239146442752), Denver
 - [Web3 hackathon](https://www.instagram.com/p/ClHoEc-O0jd/), Oxford University
 - [Lens Protocol applications](https://www.instagram.com/p/CktXnuyjzCq/), Lisbon
-
+this is a comment -->
 
 ### Fun
 
