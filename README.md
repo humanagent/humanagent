@@ -3,7 +3,7 @@
 AI engineer in Buenos Aires, ~15 years in software. I build agent harnesses, LLM systems and multi-tenant orchestration. Most recently I built a multi-tenant agent runtime: one container per agent, with model routing, sub-agents, memory and evals.
  
 - **[convos](https://convos.org/)**: the agent harness. Runtime, infra, harness, evals, observability.
-- **[xmtp agent sdk](https://github.com/xmtp/xmtp-js/tree/main/sdks/agent-sdk)**: sdk, [docs](https://docs.xmtp.org/agents/get-started/build-an-agent), devex, [examples](https://github.com/xmtplabs/xmtp-agent-examples) and miniapps for Coinbase and World
+- **[xmtp agent sdk](https://github.com/xmtp/libxmtp/tree/main/sdks/agent)**: sdk, [docs](https://docs.xmtp.org/agents/get-started/build-an-agent), devex, [examples](https://github.com/xmtplabs/xmtp-agent-examples) and miniapps for Coinbase and World
 - **[xmtp](https://xmtp.org/)** (backed by [a16z](https://a16z.com/)): devrel, [docs](https://docs.xmtp.org), protocol reliability and performance [testing](https://github.com/xmtp/xmtp-qa-tools)
 - **[aave](https://lens.xyz/docs/chain/overview)**: docs, community and a $1M grants program.
 - **[linkcard](https://linkcard.app/)**: co-founder and CTO. Built the full stack.
