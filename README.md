@@ -13,8 +13,9 @@ AI engineer in Buenos Aires, ~15 years in software. I build agent harnesses, LLM
 [Coinbase](https://docs.cdp.coinbase.com/), [World](https://world.org/) and [Circle](http://circle.com/)
 
 
-#### Writings
+#### Writings & products
 
+- [Factory observability](https://factory-status.fly.dev/)
 - [Build your own software factory with Claude Code Max](https://medium.com/@humanagent/build-your-own-software-factory-with-claude-code-max-6cec62ae580c)
 - [Teaching agents how to shut up](https://medium.com/@fabriguespe/teaching-an-agent-to-shut-up-bb8f20ac51b8?sharedUserId=fabriguespe)
 - [Developer ecosystems thesis](https://medium.com/@fabriguespe/developer-ecosystems-thesis-a109694ce5c4)
