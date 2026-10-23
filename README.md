@@ -25,7 +25,7 @@ Full-stack engineer in Buenos Aires, ~15 years in software. I build agent harnes
 
 12 cities across 4 continents: Buenos Aires, Bogotá, Lisbon, London, Oxford, Paris, Brussels, Istanbul, Denver, Stanford, Bangalore, Bangkok. Conferences, university talks, workshops and hackathons, on messaging and agents.
 
-- [The future of messaging](https://x.com/buildonbase/status/1930686350728351799), Coinbase X stream
+- [Coinbase and The future of messaging](https://x.com/buildonbase/status/1930686350728351799), Stream
 - [Building group chat agents](https://www.youtube.com/watch?v=FZ0MGKg2l9Q), Brussels
 - [Building messaging apps](https://www.youtube.com/watch?v=OLQcniVSyA4), Paris
 - [Hackathon talk](https://www.instagram.com/p/ClHoEc-O0jd/), Oxford University
