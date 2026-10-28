@@ -6,7 +6,7 @@ Product AI engineer in Buenos Aires, ~15 years in software. I build agent harnes
 - **[xmtp agent sdk](https://github.com/xmtp/libxmtp/tree/main/sdks/agent)**: and [examples](https://github.com/xmtplabs/xmtp-agent-examples)
 - **[xmtp](https://xmtp.org/)** (backed by [a16z](https://a16z.com/)): intergations, [docs](https://docs.xmtp.org), protocol reliability and performance [testing](https://github.com/xmtp/xmtp-qa-tools)
 - **[aave](https://lens.xyz/docs/chain/overview)**: integrations, docs and grants program reviews.
-- **[linkcard](https://linkcard.app/)**: co-founder and CTO. Built the full stack.
+- **[linkcard](https://linkcard.app/)**: co-founder and cto. Built the full stack.
 
 #### Worked  closely with
 
