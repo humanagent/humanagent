@@ -28,8 +28,8 @@ Product AI engineer in Buenos Aires, ~15 years in software. I build agent harnes
 - [Coinbase and the future of messaging](https://x.com/buildonbase/status/1930686350728351799), Stream
 - [Building group chat agents](https://www.youtube.com/watch?v=FZ0MGKg2l9Q), Brussels
 - [Building messaging apps](https://www.youtube.com/watch?v=OLQcniVSyA4), Paris
-- [Hackathon talk](https://www.instagram.com/p/ClHoEc-O0jd/), Oxford University
-- [Conference talk](https://www.youtube.com/watch?v=BU6qeocSsME&t=220s), Bangalore
+- [Decentralized Social](https://www.instagram.com/p/ClHoEc-O0jd/), Oxford UX
+- [Building applications](https://www.youtube.com/watch?v=BU6qeocSsME&t=220s), Bangalore
 
 
 
