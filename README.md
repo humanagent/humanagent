@@ -1,6 +1,6 @@
 ### Hi, I'm Fabri
 
-~15 years in software. I build agent harnesses, LLM systems and multi-tenant orchestration. Most recently I built a multi-tenant agent runtime: one container per agent, with model routing, sub-agents, memory and evals.
+Software Engineer for more than ~15 years. Most recently I built a multi-tenant agent runtime: one container per agent, with model routing, sub-agents, memory, evals and durable state.
  
 - **[convos](https://convos.org/)**: the agent harness. Runtime, infra, harness, evals, observability.
 - **[xmtp agent sdk](https://github.com/xmtp/libxmtp/tree/main/sdks/agent)**: and [examples](https://github.com/xmtplabs/xmtp-agent-examples)
