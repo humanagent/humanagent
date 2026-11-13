@@ -5,7 +5,7 @@ Software Engineer for more than ~15 years. Most recently I built a multi-tenant 
 - **[convos](https://convos.org/)**: the agent harness. Runtime, infra, harness, evals, observability.
 - **[xmtp agent sdk](https://github.com/xmtp/libxmtp/tree/main/sdks/agent)**: and [examples](https://github.com/xmtplabs/xmtp-agent-examples)
 - **[xmtp](https://xmtp.org/)** (backed by [a16z](https://a16z.com/)): intergations, [docs](https://docs.xmtp.org), protocol reliability and performance [testing](https://github.com/xmtp/xmtp-qa-tools)
-- **[aave](https://lens.xyz/docs/chain/overview)**: integrations, docs and grants program reviews.
+- **[aave](https://aave.com/docs)**: integrations, docs and grants for [Lens Protocol](https://lens.xyz/docs/chain/overview) reviews.
 - **[linkcard](https://linkcard.app/)**: co-founder and cto. Built the full stack.
 
 #### Worked  closely with
