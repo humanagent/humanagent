@@ -15,7 +15,8 @@ Software Engineer for more than ~15 years. Most recently I built a multi-tenant 
 
 #### Ideas
 
-- [Whatsapp images MCP](https://quick-images-mcp.fguespe.workers.dev/)
+- [Block Site - Agent chrome extension to block feeds](https://github.com/humanagent/block-site)
+- [MCP as a Service - Ticket images for whatsapp](https://quick-images-mcp.fguespe.workers.dev/)
 - [Software automation observability](https://factory-status.fly.dev/)
 - [Build your own software factory with Claude Code Max](https://medium.com/@humanagent/build-your-own-software-factory-with-claude-code-max-6cec62ae580c)
 - [Teaching agents how to shut up](https://medium.com/@fabriguespe/teaching-an-agent-to-shut-up-bb8f20ac51b8?sharedUserId=fabriguespe)
