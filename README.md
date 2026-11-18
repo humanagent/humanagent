@@ -12,7 +12,7 @@ Software Engineer for more than ~15 years. Most recently I built a multi-tenant 
 [Coinbase](https://docs.cdp.coinbase.com/), [World](https://world.org/) and [Circle](http://circle.com/)
 
 
-#### Ideas
+#### Ideas & stuff
 
 - [Block Site - Agent chrome extension to block feeds](https://github.com/humanagent/block-site)
 - [MCP as a Service - Ticket images for whatsapp](https://github.com/humanagent/quick-images-mcp)
