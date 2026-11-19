@@ -4,7 +4,8 @@ Software Engineer for more than ~15 years. Most recently I built a multi-tenant 
  
 - **[convos](https://x.com/convosmessenger/status/2074902095132766670)**: multi-tenant runtime, infra, harness, evals, observability.
 - **[xmtp agent sdk](https://github.com/xmtp/libxmtp/tree/main/sdks/agent)**: created the sdk for devs and cool [examples](https://github.com/xmtplabs/xmtp-agent-examples)
-- **[xmtp](https://xmtp.org/)** (backed by [a16z](https://a16z.com/)): intergations, [docs](https://docs.xmtp.org), protocol reliability and performance [testing](https://github.com/xmtp/xmtp-qa-tools)
+- **[qa-tools](https://github.com/xmtp/xmtp-qa-tools)**: protocol reliability and e2e testing
+- **[xmtp](https://xmtp.org/)** (backed by [a16z](https://a16z.com/)): intergations, [docs](https://docs.xmtp.org)
 - **[aave](https://aave.com/docs)**: helped teams with integrations, and grants for [Lens Protocol](https://lens.xyz/docs/chain/overview) +1M.
 
 #### Worked closely with
