@@ -31,7 +31,7 @@ Software Engineer for more than ~15 years. Most recently I built a multi-tenant 
 - [Building messaging apps](https://www.youtube.com/watch?v=OLQcniVSyA4), Paris
 - [Decentralized Social](https://www.instagram.com/p/ClHoEc-O0jd/), Oxford UX
 - [Building applications](https://www.youtube.com/watch?v=BU6qeocSsME&t=220s), Bangalore
-
+- [DevRel University: the impact of DevRel on product development](https://twitter.com/DevrelUni/status/1709979442364252253)
 
 
 <!-- 
@@ -39,16 +39,16 @@ Buenos Aires, Bogotá, Lisbon, London, Oxford, Paris, Brussels, Istanbul, Denver
 
 
 - [Building group chats with XMTP](https://www.youtube.com/watch?v=FZ0MGKg2l9Q), Brussels
-- [How to build web3 native messaging apps with XMTP](https://www.youtube.com/watch?v=OLQcniVSyA4), Paris
+- [How to build native messaging apps with XMTP](https://www.youtube.com/watch?v=OLQcniVSyA4), Paris
 - [ZuSocial workshops](https://twitter.com/afrazhaowang/status/1724787663054745855), Istanbul
 - [DevRel University: the impact of DevRel on product development](https://twitter.com/DevrelUni/status/1709979442364252253)
 - [What is web3 social](https://twitter.com/easya_app/status/1583809043759783936), London
 - [Lens workshop](https://twitter.com/michelleanmar/status/1578461480059834369), Bogotá
 - [Decentralized social](https://twitter.com/humanagent_eth/status/1604261430877904899), Buenos Aires
 - [Exploring the potential of Lens Protocol](https://twitter.com/huddle01com/status/1597560196242452482), Bangalore
-- [Intro to web3 social and Lens Protocol](https://www.youtube.com/watch?v=BU6qeocSsME&t=220s), Zero-to-Dapp Conf, India
-- [Web3 Social House](https://twitter.com/afrazhaowang/status/1631060239146442752), Denver
-- [Web3 hackathon](https://www.instagram.com/p/ClHoEc-O0jd/), Oxford University
+- [India Lens Protocol](https://www.youtube.com/watch?v=BU6qeocSsME&t=220s), Zero-to-Dapp Conf, India
+- [lens Social House](https://twitter.com/afrazhaowang/status/1631060239146442752), Denver
+- [lens hackathon](https://www.instagram.com/p/ClHoEc-O0jd/), Oxford University
 - [Lens Protocol applications](https://www.instagram.com/p/CktXnuyjzCq/), Lisbon
 this is a comment -->
 
