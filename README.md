@@ -31,7 +31,7 @@ Software Engineer for more than ~15 years. Most recently I built a multi-tenant 
 - [Building messaging apps](https://www.youtube.com/watch?v=OLQcniVSyA4), Paris
 - [Decentralized Social](https://www.instagram.com/p/ClHoEc-O0jd/), Oxford UX
 - [Building applications](https://www.youtube.com/watch?v=BU6qeocSsME&t=220s), Bangalore
-- [DevRel University: the impact of DevRel on product development](https://twitter.com/DevrelUni/status/1709979442364252253)
+- [DevRel University Course](https://twitter.com/DevrelUni/status/1709979442364252253), Online
 
 
 <!-- 
