@@ -15,6 +15,7 @@ Software Engineer for more than ~15 years. Most recently I built a multi-tenant 
 
 #### Ideas & stuff
 
+- [GPT Sign-in personal software](https://github.com/humanagent/machete)
 - [Block Site - Agent chrome extension to block feeds](https://github.com/humanagent/block-site)
 - [MCP as a Service - Ticket images for whatsapp](https://github.com/humanagent/quick-images-mcp)
 - [Software automation observability](https://factory-status.fly.dev/)
