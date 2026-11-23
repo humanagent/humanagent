@@ -16,6 +16,7 @@ Software Engineer for more than ~15 years. Most recently I built a multi-tenant 
 #### Ideas & stuff
 
 - [Productivity tools for mac](https://github.com/humanagent/machete)
+- [Personal software thesis](https://medium.com/@humanagent/personal-software-thesis-31aa475246c7?postPublishedType=initial)
 - [Block Site - Agent chrome extension to block feeds](https://github.com/humanagent/block-site)
 - [MCP as a Service - Ticket images for whatsapp](https://github.com/humanagent/quick-images-mcp)
 - [Software automation observability](https://factory-status.fly.dev/)
